@@ -1,0 +1,95 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework2.V2StudentTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 0.07 s <<< FAILURE! - in dev.m3s.programming2.homework2.V2StudentTests
+dev.m3s.programming2.homework2.V2StudentTests.printDegreesTest  Time elapsed: 0.001 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
+	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
+	b. The attribute should have type ⟨int⟩                   	(3 matches)
+	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
+
+	Closest matches:
+	~> private int id
+	~> private int startYear
+	~> private int graduationYear
+	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
+
+dev.m3s.programming2.homework2.V2StudentTests.setDegreeTitleTests  Time elapsed: 0.045 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
+	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
+	b. The attribute should have type ⟨int⟩                   	(3 matches)
+	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
+
+	Closest matches:
+	~> private int id
+	~> private int startYear
+	~> private int graduationYear
+	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
+
+dev.m3s.programming2.homework2.V2StudentTests.addCoursesTests  Time elapsed: 0.002 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
+	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
+	b. The attribute should have type ⟨int⟩                   	(3 matches)
+	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
+
+	Closest matches:
+	~> private int graduationYear
+	~> private int id
+	~> private int startYear
+	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
+
+dev.m3s.programming2.homework2.V2StudentTests.getStudyYearsTests  Time elapsed: 0.002 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
+	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
+	b. The attribute should have type ⟨int⟩                   	(3 matches)
+	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
+
+	Closest matches:
+	~> private int id
+	~> private int startYear
+	~> private int graduationYear
+	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
+
+dev.m3s.programming2.homework2.V2StudentTests.addCourseTests  Time elapsed: 0.005 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
+	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
+	b. The attribute should have type ⟨int⟩                   	(3 matches)
+	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
+
+	Closest matches:
+	~> private int id
+	~> private int graduationYear
+	~> private int startYear
+	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
+
+dev.m3s.programming2.homework2.V2StudentTests.printCoursesTests  Time elapsed: 0.001 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
+	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
+	b. The attribute should have type ⟨int⟩                   	(3 matches)
+	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
+
+	Closest matches:
+	~> private int id
+	~> private int graduationYear
+	~> private int startYear
+	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
+
+dev.m3s.programming2.homework2.V2StudentTests.setTitleOfThesisTests  Time elapsed: 0.002 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
+	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
+	b. The attribute should have type ⟨int⟩                   	(3 matches)
+	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
+
+	Closest matches:
+	~> private int graduationYear
+	~> private int id
+	~> private int startYear
+	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
+

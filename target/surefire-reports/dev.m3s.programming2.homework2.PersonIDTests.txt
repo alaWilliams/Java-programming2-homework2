@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework2.PersonIDTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.312 s <<< FAILURE! - in dev.m3s.programming2.homework2.PersonIDTests
+dev.m3s.programming2.homework2.PersonIDTests.setPersonIDTests  Time elapsed: 0.01 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.TargetException: 
+java.lang.NullPointerException: Cannot invoke "String.length()" because "personID" is null
+	@ dev.m3s.programming2.homework2.PersonID.checkPersonIDNumber(PersonID.java:34)
+	at dev.m3s.programming2.homework2.PersonIDTests.setPersonIDTests(PersonIDTests.java:68)
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "personID" is null
+	at dev.m3s.programming2.homework2.PersonIDTests.setPersonIDTests(PersonIDTests.java:68)
+

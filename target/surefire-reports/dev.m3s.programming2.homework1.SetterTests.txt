@@ -1,0 +1,204 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework1.SetterTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.042 s <<< FAILURE! - in dev.m3s.programming2.homework1.SetterTests
+dev.m3s.programming2.homework1.SetterTests.setMasterCreditsTest  Time elapsed: 0.002 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class GetterTests
+	~> class SetterTests
+	~> class ConstantValuesTests
+	~> class CanGraduateTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class V2MethodTests extends H1
+	~> class H1
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class ToStringTests
+	~> class ConstructorTests
+	~> class AttributeTests
+	~> class SetGraduationYearTests
+	~> class NullTests
+	~> private static class Expected <T>
+	~> class extends Iterator<String>
+	~> class HasGraduatedTests
+	~> class MockStudent
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+
+dev.m3s.programming2.homework1.SetterTests.setBachelorCreditsTest  Time elapsed: 0.009 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class extends Iterator<String>
+	~> class SetGraduationYearTests
+	~> class NullTests
+	~> class H1
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class ConstructorTests
+	~> class AttributeTests
+	~> class HasGraduatedTests
+	~> class MockStudent
+	~> class ConstantValuesTests
+	~> private static class Expected <T>
+	~> class SetterTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class V2MethodTests extends H1
+	~> class ToStringTests
+	~> class GetterTests
+	~> class CanGraduateTests
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+
+dev.m3s.programming2.homework1.SetterTests.setLastNameTest  Time elapsed: 0.002 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class MockStudent
+	~> class SetterTests
+	~> class extends Iterator<String>
+	~> class ConstantValuesTests
+	~> class ToStringTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class V2MethodTests extends H1
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class CanGraduateTests
+	~> class ConstructorTests
+	~> class H1
+	~> class AttributeTests
+	~> class HasGraduatedTests
+	~> private static class Expected <T>
+	~> class SetGraduationYearTests
+	~> class GetterTests
+	~> class NullTests
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+
+dev.m3s.programming2.homework1.SetterTests.setTitleOfMasterThesisTest  Time elapsed: 0.002 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class V2MethodTests extends H1
+	~> class ToStringTests
+	~> class ConstructorTests
+	~> class AttributeTests
+	~> class ConstantValuesTests
+	~> class HasGraduatedTests
+	~> class GetterTests
+	~> class CanGraduateTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class extends Iterator<String>
+	~> class NullTests
+	~> class SetGraduationYearTests
+	~> private static class Expected <T>
+	~> class H1
+	~> class SetterTests
+	~> class MockStudent
+	~> class RegexMatcher extends BaseMatcher<String>
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+
+dev.m3s.programming2.homework1.SetterTests.setStartYearTest  Time elapsed: 0.003 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class NullTests
+	~> class CanGraduateTests
+	~> class SetterTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class extends Iterator<String>
+	~> private static class Expected <T>
+	~> class ToStringTests
+	~> class ConstantValuesTests
+	~> class SetGraduationYearTests
+	~> class H1
+	~> class MockStudent
+	~> class V2MethodTests extends H1
+	~> class ConstructorTests
+	~> class AttributeTests
+	~> class HasGraduatedTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class GetterTests
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+
+dev.m3s.programming2.homework1.SetterTests.setIdTest  Time elapsed: 0.005 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> private static class Expected <T>
+	~> class extends Iterator<String>
+	~> class CanGraduateTests
+	~> class V2MethodTests extends H1
+	~> class SetterTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class ConstantValuesTests
+	~> class ConstructorTests
+	~> class HasGraduatedTests
+	~> class MockStudent
+	~> class NullTests
+	~> class H1
+	~> class AttributeTests
+	~> class ToStringTests
+	~> class SetGraduationYearTests
+	~> class GetterTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+
+dev.m3s.programming2.homework1.SetterTests.setFirstNameTest  Time elapsed: 0.002 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class H1
+	~> class SetterTests
+	~> class extends Iterator<String>
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class ToStringTests
+	~> class V2MethodTests extends H1
+	~> class MockStudent
+	~> class ConstructorTests
+	~> class ConstantValuesTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class HasGraduatedTests
+	~> private static class Expected <T>
+	~> class NullTests
+	~> class CanGraduateTests
+	~> class AttributeTests
+	~> class GetterTests
+	~> class SetGraduationYearTests
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+
+dev.m3s.programming2.homework1.SetterTests.setTitleOfBachelorThesisTest  Time elapsed: 0.005 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class extends Iterator<String>
+	~> class ToStringTests
+	~> class SetterTests
+	~> class MockStudent
+	~> class V2MethodTests extends H1
+	~> class ConstantValuesTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class NullTests
+	~> class AttributeTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class CanGraduateTests
+	~> class ConstructorTests
+	~> private static class Expected <T>
+	~> class HasGraduatedTests
+	~> class SetGraduationYearTests
+	~> class H1
+	~> class GetterTests
+	at dev.m3s.programming2.homework1.SetterTests.setUp(SetterTests.java:27)
+

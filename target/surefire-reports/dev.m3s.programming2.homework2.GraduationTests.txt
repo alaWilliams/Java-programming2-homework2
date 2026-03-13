@@ -1,0 +1,190 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework2.GraduationTests
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 1, Errors: 14, Skipped: 0, Time elapsed: 0.445 s <<< FAILURE! - in dev.m3s.programming2.homework2.GraduationTests
+dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutMastersCreditsTest  Time elapsed: 0.009 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutMastersCreditsTest(GraduationTests.java:111)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutBachelorsCreditsTest  Time elapsed: 0.034 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
+	a. The method should have parameter type ⟨String⟩	(0 matches)
+	b. The method should have parameter count ⟨2⟩    	(0 matches)
+	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
+	d. The method should have parameter type ⟨int⟩   	(4 matches)
+	e. The method should have return type ⟨void⟩     	(8 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutBachelorsCreditsTest(GraduationTests.java:256)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutBachelorsThesisTitleTest  Time elapsed: 0.069 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
+	a. The method should have parameter type ⟨String⟩	(0 matches)
+	b. The method should have parameter count ⟨2⟩    	(0 matches)
+	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
+	d. The method should have parameter type ⟨int⟩   	(4 matches)
+	e. The method should have return type ⟨void⟩     	(8 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutBachelorsThesisTitleTest(GraduationTests.java:287)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearInvalidYearTests_V2  Time elapsed: 0.014 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearInvalidYearTests_V2(GraduationTests.java:173)
+
+dev.m3s.programming2.homework2.GraduationTests.hasGraduatedTests_V2  Time elapsed: 0.006 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.hasGraduatedTests_V2(GraduationTests.java:324)
+
+dev.m3s.programming2.homework2.GraduationTests.canGraduateConditionsAlmostMetTest_V2  Time elapsed: 0.004 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.canGraduateConditionsAlmostMetTest_V2(GraduationTests.java:148)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearConditionsMetTest_V2  Time elapsed: 0.012 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearConditionsMetTest_V2(GraduationTests.java:205)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearStartYearTest_V2  Time elapsed: 0.025 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearStartYearTest_V2(GraduationTests.java:229)
+
+dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutMastersThesisTitleTest  Time elapsed: 0.007 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutMastersThesisTitleTest(GraduationTests.java:135)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutMastersThesisTitleTest  Time elapsed: 0.01 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
+	a. The method should have parameter type ⟨String⟩	(0 matches)
+	b. The method should have parameter count ⟨2⟩    	(0 matches)
+	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
+	d. The method should have parameter type ⟨int⟩   	(4 matches)
+	e. The method should have return type ⟨void⟩     	(8 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutMastersThesisTitleTest(GraduationTests.java:303)
+
+dev.m3s.programming2.homework2.GraduationTests.canGraduateConditionsMetTest_V2  Time elapsed: 0.009 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.canGraduateConditionsMetTest_V2(GraduationTests.java:89)
+
+dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutBachelorsCreditsTest  Time elapsed: 0.007 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutBachelorsCreditsTest(GraduationTests.java:99)
+
+dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutBachelorsThesisTitleTest  Time elapsed: 0.083 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the constructors in ⟨class Course⟩ meet the requirements
+	a. The constructor should have parameter type ⟨Character/char⟩	(0 matches)
+	b. The constructor should have parameter type ⟨boolean⟩       	(0 matches)
+	c. The constructor should have parameter count ⟨7⟩            	(0 matches)
+	d. The constructor should have parameter type ⟨double⟩        	(0 matches)
+	e. The constructor should have parameter type ⟨String⟩        	(1 match)
+	f. The constructor should have parameter type ⟨int⟩           	(2 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutBachelorsThesisTitleTest(GraduationTests.java:123)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutMastersCreditsTest  Time elapsed: 0.009 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
+	a. The method should have parameter type ⟨String⟩	(0 matches)
+	b. The method should have parameter count ⟨2⟩    	(0 matches)
+	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
+	d. The method should have parameter type ⟨int⟩   	(4 matches)
+	e. The method should have return type ⟨void⟩     	(8 matches)
+
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutMastersCreditsTest(GraduationTests.java:271)
+
+dev.m3s.programming2.homework2.GraduationTests.setGraduationYearConditionsUnmetTest  Time elapsed: 0.021 s  <<< FAILURE!
+java.lang.AssertionError: 
+setGraduationYear() should not allow new student
+to immediately graduate.
+Expected: a String matching the pattern:
+"?Check\s+(the\s+)?amount\s+of\s+required\s+credit
+[.!"]*
+     but: was: Check the required studies
+(<== see Console output for more context)
+
+Regular expression explanation:
+ ?  : Element to the left is optional (e.g. colou?r)
+ \s : Match any whitespace character [ \t\n\x0B\f\r]
+ +  : Element to the left can occur one or more times
+ (  : Start group (a "capturing group")
+ )  : End capturing group
+ [  : Start character class (e.g. [abc])
+ .  : Match any character, literal '.' inside character class
+ ]  : End character class (e.g. [^A-Z])
+ *  : Element to the left can occur zero or more times
+	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearConditionsUnmetTest(GraduationTests.java:194)
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework2.ConstantValuesTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.841 s - in dev.m3s.programming2.homework2.ConstantValuesTests

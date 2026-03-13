@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework2.StudentTests
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 3.033 s <<< FAILURE! - in dev.m3s.programming2.homework2.StudentTests
+dev.m3s.programming2.homework2.StudentTests.birthDateTests  Time elapsed: 0.005 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the methods in ⟨class Student⟩ meet the requirements for ⟨setBirthDate⟩
+	a. The method should have name matching ⟨"setBirth[Dd]ate"⟩	(0 matches)
+	b. The method should have return type ⟨String⟩             	(7 matches)
+	c. The method should have parameter type ⟨String⟩          	(8 matches)
+	d. The method should have parameter count ⟨1⟩              	(14 matches)
+
+	Closest match:
+	~> public String setPersonId( String )
+	at dev.m3s.programming2.homework2.StudentTests.birthDateTests(StudentTests.java:260)
+
+dev.m3s.programming2.homework2.StudentTests.parameterizedConstructorTests  Time elapsed: 0.402 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Parameterized constructor should utilize the
+parameterless constructor 
+Expected: is ⟨true⟩
+     but: was ⟨false⟩
+(<== see Console output for more context)
+	at dev.m3s.programming2.homework2.StudentTests.parameterizedConstructorTests(StudentTests.java:83)
+

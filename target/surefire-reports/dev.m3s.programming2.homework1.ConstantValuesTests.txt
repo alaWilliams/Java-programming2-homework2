@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework1.ConstantValuesTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.151 s <<< FAILURE! - in dev.m3s.programming2.homework1.ConstantValuesTests
+dev.m3s.programming2.homework1.ConstantValuesTests.constantValuesTests_V2  Time elapsed: 0.055 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨ConstantValues⟩
+	a. The class should have name ⟨ConstantValues⟩	(0 matches)
+
+	Closest matches:
+	~> class extends Iterator<String>
+	~> class H1
+	~> private static class Expected <T>
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class MockStudent
+	~> class ToStringTests
+	~> class CanGraduateTests
+	~> class V2MethodTests extends H1
+	~> class NullTests
+	~> class SetterTests
+	~> class ConstructorTests
+	~> class GetterTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class AttributeTests
+	~> class HasGraduatedTests
+	~> class SetGraduationYearTests
+	~> class ConstantValuesTests
+	at dev.m3s.programming2.homework1.ConstantValuesTests.constantValuesTests_V2(ConstantValuesTests.java:94)
+
+dev.m3s.programming2.homework1.ConstantValuesTests.constantValuesTests  Time elapsed: 0.044 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨ConstantValues⟩
+	a. The class should have name ⟨ConstantValues⟩	(0 matches)
+
+	Closest matches:
+	~> class MockStudent
+	~> class GetterTests
+	~> class SetterTests
+	~> class AttributeTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class V2MethodTests extends H1
+	~> private static class Expected <T>
+	~> class ConstantValuesTests
+	~> class H1
+	~> class extends Iterator<String>
+	~> class CanGraduateTests
+	~> class SetGraduationYearTests
+	~> class HasGraduatedTests
+	~> class NullTests
+	~> class ToStringTests
+	~> class ConstructorTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	at dev.m3s.programming2.homework1.ConstantValuesTests.constantValuesTests(ConstantValuesTests.java:31)
+

@@ -1,0 +1,54 @@
+-------------------------------------------------------------------------------
+Test set: dev.m3s.programming2.homework1.HasGraduatedTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! - in dev.m3s.programming2.homework1.HasGraduatedTests
+dev.m3s.programming2.homework1.HasGraduatedTests.hasNotGraduatedTest  Time elapsed: 0.009 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class NullTests
+	~> class CanGraduateTests
+	~> class AttributeTests
+	~> class MockStudent
+	~> class ToStringTests
+	~> private static class Expected <T>
+	~> class V2MethodTests extends H1
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class GetterTests
+	~> class HasGraduatedTests
+	~> class extends Iterator<String>
+	~> class SetterTests
+	~> class H1
+	~> class SetGraduationYearTests
+	~> class ConstructorTests
+	~> class ConstantValuesTests
+	at dev.m3s.programming2.homework1.HasGraduatedTests.setUp(HasGraduatedTests.java:21)
+
+dev.m3s.programming2.homework1.HasGraduatedTests.hasGraduatedTest  Time elapsed: 0.001 s  <<< ERROR!
+dev.m3s.maeaettae.jreq.RequirementException: 
+None of the classes in ⟨dev.m3s.programming2.homework1⟩ meet the requirements for ⟨Student⟩
+	a. The class should have name ⟨Student⟩	(0 matches)
+
+	Closest matches:
+	~> class H1
+	~> class ToStringTests
+	~> class GetterTests
+	~> private static class Expected <T>
+	~> class HasGraduatedTests
+	~> class CanGraduateTests
+	~> class ConstantValuesTests
+	~> class SetterTests
+	~> class extends Iterator<String>
+	~> class ConstructorTests
+	~> class RegexMatcher extends BaseMatcher<String>
+	~> class NullTests
+	~> class MockStudent
+	~> class AttributeTests
+	~> class H1Matcher <T> extends BaseMatcher<T>
+	~> class V2MethodTests extends H1
+	~> class SetGraduationYearTests
+	at dev.m3s.programming2.homework1.HasGraduatedTests.setUp(HasGraduatedTests.java:21)
+
