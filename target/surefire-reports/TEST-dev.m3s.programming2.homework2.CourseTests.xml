@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.CourseTests" time="0.157" tests="11" errors="11" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.CourseTests" time="1.484" tests="11" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire5143756225805046814\surefirebooter11596645842418221296.jar C:\Users\alicj\AppData\Local\Temp\surefire5143756225805046814 2026-03-13T10-22-11_352-jvmRun1 surefire5270547884256048051tmp surefire_03793082509623047120tmp"/>
+    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363 2026-03-16T19-44-09_344-jvmRun1 surefire499815918649158111tmp surefire_06878865703492033946tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\alicj\Projects\java\java-homework2\target\test-classes;C:\Users\alicj\Projects\java\java-homework2\target\classes;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\alicj\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\alicj\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\maeaettae\jreq\0.4.6\jreq-0.4.6.jar;C:\Users\alicj\.m2\repository\io\github\staffan325\automated_grading\0.1.2\automated_grading-0.1.2.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-launcher\1.6.3\junit-platform-launcher-1.6.3.jar;C:\Users\alicj\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\alicj\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\alicj\.m2\repository\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;C:\Users\alicj\.m2\repository\com\puppycrawl\tools\checkstyle\10.12.3\checkstyle-10.12.3.jar;C:\Users\alicj\.m2\repository\info\picocli\picocli\4.7.4\picocli-4.7.4.jar;C:\Users\alicj\.m2\repository\org\antlr\antlr4-runtime\4.11.1\antlr4-runtime-4.11.1.jar;C:\Users\alicj\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\alicj\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\alicj\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\alicj\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar;C:\Users\alicj\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\alicj\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\alicj\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\alicj\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\alicj\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\alicj\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar;C:\Users\alicj\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar;C:\Users\alicj\.m2\repository\net\sf\saxon\Saxon-HE\12.3\Saxon-HE-12.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\alicj\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0-data.jar;C:\Users\alicj\.m2\repository\org\checkerframework\checker-qual\3.27.0\checker-qual-3.27.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-core\1.12.0\doxia-core-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.12.0\doxia-sink-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-logging-api\1.12.0\doxia-logging-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-container-default\2.1.0\plexus-container-default-2.1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.6.0\plexus-classworlds-2.6.0.jar;C:\Users\alicj\.m2\repository\org\apache\xbean\xbean-reflect\3.7\xbean-reflect-3.7.jar;C:\Users\alicj\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-component-annotations\2.1.0\plexus-component-annotations-2.1.0.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-module-xdoc\1.12.0\doxia-module-xdoc-1.12.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\programming2.checkstyle\0.0.1\programming2.checkstyle-0.0.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire5143756225805046814\surefirebooter11596645842418221296.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-2513"/>
@@ -58,114 +58,412 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="numericGradeTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.077">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="numericGradeTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.063">
+    <system-out><![CDATA[Calling new Course(  )
+Reading the value of private boolean numericGrade
+ ~> false
+-----------------------------------------------------
+Comparing the return value of the getter to the value
+of the attribute (ignoring the visibility modifier):
+-----------------------------------------------------
+Reading the value of private boolean numericGrade
+ ~> false
+Checking whether isNumericGrade(  ) returns false
+ ~> false (true)
+ ✓
+-----------------------------------------------------
+Comparing the value of the attribute before and after
+setting a new value using the setter (ignoring the
+attribute's visibility modifier)
+-----------------------------------------------------
+Reading the value of private boolean numericGrade
+ ~> false
+Calling setNumericGrade( true )
+Checking whether private boolean numericGrade is true
+ ~> true (true)
+ ✓
+-----------------------------------------------------
+Comparing the value of the attribute before and after
+setting a new value using the setter (ignoring the
+attribute's visibility modifier)
+-----------------------------------------------------
+Reading the value of private boolean numericGrade
+ ~> true
+Calling setNumericGrade( false )
+Checking whether private boolean numericGrade is false
+ ~> false (true)
+ ✓
+-----------------------------------------------------
+Comparing the return value of the getter to the value
+of the attribute after setting a new value directly
+(ignoring the visibility modifier):
+-----------------------------------------------------
+Assigning value true to private boolean numericGrade
+Checking whether isNumericGrade(  ) returns true
+ ~> true (true)
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="courseCodeTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="courseCodeTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.053">
+    <system-out><![CDATA[Calling new Course(  )
+Calling setCourseCode( 292170, 'P' )
+Reading the value of private String courseCode
+ ~> "292170P"
+ ✓
+Calling setCourseCode( 666870, 'a' )
+Reading the value of private String courseCode
+ ~> "666870A"
+ ✓
+Calling setCourseCode( 749066, 'p' )
+Reading the value of private String courseCode
+ ~> "749066P"
+ ✓
+Calling setCourseCode( 631533, 's' )
+Reading the value of private String courseCode
+ ~> "631533S"
+ ✓
+-----------------------------------------------------
+Comparing the return value of the getter to the value
+of the attribute after setting a new value directly
+(ignoring the visibility modifier):
+-----------------------------------------------------
+Assigning value "797397S" to private String courseCode
+Checking whether getCourseCode(  ) returns a String matching "797397S"
+ ~> "797397S" (true)
+ ✓
+Calling setCourseCode( 1, 'A' )
+Calling getCourseCode(  )
+ ✓
+Calling setCourseCode( 0, 'S' )
+Calling getCourseCode(  )
+Reading the value of private String courseCode
+ ~> "1A"
+ ✓
+Calling setCourseCode( 999999, 'P' )
+Calling getCourseCode(  )
+Reading the value of private String courseCode
+ ~> "999999P"
+ ✓
+Calling setCourseCode( 1000000, 'P' )
+Calling getCourseCode(  )
+Reading the value of private String courseCode
+ ~> "999999P"
+ ✓
+Calling setCourseCode( -602644, 'S' )
+Calling getCourseCode(  )
+Reading the value of private String courseCode
+ ~> "999999P"
+ ✓
+Calling setCourseCode( 681741, 'J' )
+Reading the value of private String courseCode
+ ~> "999999P"
+Reading the value of private String courseCode
+ ~> "999999P"
+ ✓
+Calling getCourseCode(  )
+Reading the value of private String courseCode
+ ~> "999999P"
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="periodTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.003">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="periodTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.055">
+    <system-out><![CDATA[Calling new Course(  )
+Reading the value of private int period
+ ~> 0
+ ✓
+Calling setPeriod( 1 )
+Checking whether private int period is 1
+ ~> 1 (true)
+Calling setPeriod( 5 )
+Checking whether private int period is 5
+ ~> 5 (true)
+Calling setPeriod( 0 )
+Checking whether private int period is within [1, 5]
+ ~> 5 (true)
+Calling setPeriod( 6 )
+Checking whether private int period is within [1, 5]
+ ~> 5 (true)
+Reading the value of private int period
+ ~> 5
+ ✓
+-----------------------------------------------------
+Comparing the value of the attribute before and after
+setting a new value using the setter (ignoring the
+attribute's visibility modifier)
+-----------------------------------------------------
+Reading the value of private int period
+ ~> 5
+The current value and the new value are the same.
+The setter should update the current value.
+~> The test will be inconclusive...
+Calling setPeriod( 5 )
+Checking whether private int period is 5
+ ~> 5 (true)
+ ✓
+-----------------------------------------------------
+Comparing the return value of the getter to the value
+of the attribute after setting a new value directly
+(ignoring the visibility modifier):
+-----------------------------------------------------
+Assigning value 5 to private int period
+Checking whether getPeriod(  ) returns 5
+ ~> 5 (true)
+ ✓
+Calling setPeriod( -84 )
+Calling getPeriod(  )
+ ✓
+Calling setPeriod( 14 )
+Checking whether getPeriod(  ) returns 5
+ ~> 5 (true)
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="creditsTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.004">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="creditsTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.037">
+    <system-out><![CDATA[Calling new Course(  )
+Reading the value of private double credits
+ ~> 0.0
+ ✓
+-----------------------------------------------------
+Comparing the value of the attribute before and after
+setting a new value using the setter (ignoring the
+attribute's visibility modifier)
+-----------------------------------------------------
+Reading the value of private double credits
+ ~> 0.0
+Calling setCredits( 55.0 )
+Checking whether private double credits is 55.0
+ ~> 55.0 (true)
+ ✓
+-----------------------------------------------------
+Comparing the value of the attribute before and after
+setting a new value using the setter (ignoring the
+attribute's visibility modifier)
+-----------------------------------------------------
+Reading the value of private double credits
+ ~> 55.0
+Calling setCredits( 0.0 )
+Checking whether private double credits is 0.0
+ ~> 0.0 (true)
+ ✓
+-----------------------------------------------------
+Comparing the value of the attribute before and after
+setting a new value using the setter (ignoring the
+attribute's visibility modifier)
+-----------------------------------------------------
+Reading the value of private double credits
+ ~> 0.0
+Calling setCredits( 32.0 )
+Checking whether private double credits is 32.0
+ ~> 32.0 (true)
+ ✓
+-----------------------------------------------------
+Comparing the return value of the getter to the value
+of the attribute after setting a new value directly
+(ignoring the visibility modifier):
+-----------------------------------------------------
+Assigning value 45.0 to private double credits
+Checking whether getCredits(  ) returns 45.0
+ ~> 45.0 (true)
+ ✓
+Calling setCredits( -32.0 )
+Calling getCredits(  )
+ ✓
+Calling setCredits( 99.0 )
+Calling getCredits(  )
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="constructorTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.001">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
+  <testcase name="constructorTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.049">
+    <system-out><![CDATA[Calling new Course(  )
+Calling new Course( "bspemfobem", 797755, 'S', 1, 4, 13.0, false )
+Calling new Course( [797755S (13.00 cr), "bspemfobem". Mandatory, period: 4.] )
+Checking whether the two course objects are equal:
+ => Course 2: Reading the value of private String name
+ ~> "bspemfobem"
+ => Course 1: Checking whether private String name is "bspemfobem"
+ ~> "bspemfobem" (true)
+ ✓
+ => Course 2: Reading the value of private String courseCode
+ ~> "797755S"
+ => Course 1: Checking whether the value of private String courseCode matches "797755S"
+ ~> "797755S" (true)
+ ✓
+ => Course 2: Reading the value of private Character courseBase
+ ~> 'S'
+ => Course 1: Checking whether private Character courseBase is 'S'
+ ~> 'S' (true)
+ ✓
+ => Course 2: Reading the value of private int period
+ ~> 4
+ => Course 1: Checking whether private int period is 4
+ ~> 4 (true)
+ ✓
+ => Course 2: Reading the value of private double credits
+ ~> 13.0
+ => Course 1: Checking whether private double credits is 13.0
+ ~> 13.0 (true)
+ ✓
+ => Course 2: Reading the value of private boolean numericGrade
+ ~> false
+ => Course 1: Checking whether private boolean numericGrade is false
+ ~> false (true)
+ ✓
+=> The course objects are equal.
 
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+]]></system-out>
   </testcase>
-  <testcase name="courseTypeTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.003">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="courseTypeTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.019">
+    <system-out><![CDATA[Calling new Course(  )
+Calling setCourseType( 0 )
+Reading the value of private int courseType
+ ~> 0
+ ✓
+Calling getCourseType(  )
+ ✓
+Checking whether getCourseTypeString(  ) returns a String matching "(?i)Optional"
+ ~> "Optional" (true)
+Reading the value of private int courseType
+ ~> 0
+ ✓
+Calling setCourseType( 1 )
+Reading the value of private int courseType
+ ~> 1
+ ✓
+Calling getCourseType(  )
+ ✓
+Checking whether getCourseTypeString(  ) returns a String matching "(?i)Mandatory"
+ ~> "Mandatory" (true)
+Reading the value of private int courseType
+ ~> 1
+ ✓
+Calling setCourseType( -60 )
+Calling getCourseType(  )
+ ✓
+Reading the value of private int courseType
+ ~> 1
+ ✓
+Checking whether getCourseTypeString(  ) returns a String matching "(?i)Mandatory"
+ ~> "Mandatory" (true)
+Reading the value of private int courseType
+ ~> 1
+ ✓
+Calling setCourseType( 0 )
+Calling setCourseType( 59 )
+Calling getCourseType(  )
+ ✓
+Reading the value of private int courseType
+ ~> 0
+ ✓
+Checking whether getCourseTypeString(  ) returns a String matching "(?i)Optional"
+ ~> "Optional" (true)
+Reading the value of private int courseType
+ ~> 0
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="constructorParameterTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="constructorParameterTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.02">
+    <system-out><![CDATA[Calling new Course(  )
+Calling new Course( null, -100000, 'A', -1, 6, -1.0, true )
+Reading the value of private int courseType
+ ~> 0
+ ✓
+Reading the value of private int period
+ ~> 0
+ ✓
+Reading the value of private double credits
+ ~> 0.0
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="constantValuesUsageTest" classname="dev.m3s.programming2.homework2.CourseTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="constantValuesUsageTest" classname="dev.m3s.programming2.homework2.CourseTests" time="1.05">
+    <system-out><![CDATA[Calling new Course(  )
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="nameTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.003">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="nameTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.011">
+    <system-out><![CDATA[Calling new Course(  )
+Calling setName( "tchymuohbr" )
+-----------------------------------------------------
+Comparing the value of the attribute before and after
+setting a new value using the setter (ignoring the
+attribute's visibility modifier)
+-----------------------------------------------------
+Reading the value of private String name
+ ~> "tchymuohbr"
+The current value and the new value are the same.
+The setter should update the current value.
+~> The test will be inconclusive...
+Calling setName( "tchymuohbr" )
+Checking whether private String name is "tchymuohbr"
+ ~> "tchymuohbr" (true)
+ ✓
+-----------------------------------------------------
+Comparing the return value of the getter to the value
+of the attribute after setting a new value directly
+(ignoring the visibility modifier):
+-----------------------------------------------------
+Assigning value "tchymuohbr" to private String name
+Checking whether getName(  ) returns "tchymuohbr"
+ ~> "tchymuohbr" (true)
+ ✓
+Calling setName( null )
+Reading the value of private String name
+ ~> "tchymuohbr"
+ ✓
+Calling setName( "" )
+Reading the value of private String name
+ ~> "tchymuohbr"
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="courseBaseTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="courseBaseTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.018">
+    <system-out><![CDATA[Calling new Course(  )
+Calling setCourseCode( 423476, 'A' )
+Reading the value of private Character courseBase
+ ~> 'A'
+ ✓
+Calling getCourseBase(  )
+ ✓
+Calling setCourseCode( 148438, 'a' )
+Calling getCourseBase(  )
+ ✓
+Calling setCourseCode( 558578, 'p' )
+Calling getCourseBase(  )
+ ✓
+Calling setCourseCode( 484639, 's' )
+Calling getCourseBase(  )
+ ✓
+Calling setCourseCode( 8534950, 'P' )
+Calling getCourseBase(  )
+ ✓
+Calling setCourseCode( 383608, 'C' )
+Reading the value of private Character courseBase
+ ~> 'S'
+ ✓
+Calling getCourseBase(  )
+ ✓
+]]></system-out>
   </testcase>
-  <testcase name="toStringTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.013">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the constructors in ⟨class Course⟩ meet the requirements
-	a. The constructor should have parameter count ⟨0⟩	(0 matches)
-
-	Closest match:
-	~> public Course ( String ,double ,int ,int ,int )
-	at dev.m3s.programming2.homework2.CourseTests.setUp(CourseTests.java:24)
-]]></error>
+  <testcase name="toStringTests" classname="dev.m3s.programming2.homework2.CourseTests" time="0.054">
+    <system-out><![CDATA[Calling new Course(  )
+Calling new Course( "xjsrivxnki", 622041, 'S', 0, 2, 31.0, true )
+Calling toString(  )
+The output should match the regular expression pattern: "\[622041S \( 31\.?00 cr\), "xjsrivxnki"\.? Optional, period: 2\.?\]"
+Attempting to locate the starting point of the regular expression pattern: "\[62204"
+ ✓
+ ✓
+Calling new Course( "fupqrejjoq", 955037, 'A', 1, 3, 16.0, false )
+Calling toString(  )
+The output should match the regular expression pattern: "\[955037A \( 16\.?00 cr\), "fupqrejjoq"\.? Mandatory, period: 3\.?\]"
+Attempting to locate the starting point of the regular expression pattern: "\[95503"
+ ✓
+ ✓
+Calling new Course( "dyqukucfqd", 943349, 'P', 1, 5, 45.0, true )
+Calling toString(  )
+The output should match the regular expression pattern: "\[943349P \( 45\.?00 cr\), "dyqukucfqd"\.? Mandatory, period: 5\.?\]"
+Attempting to locate the starting point of the regular expression pattern: "\[94334"
+ ✓
+ ✓
+]]></system-out>
   </testcase>
 </testsuite>

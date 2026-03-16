@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: dev.m3s.programming2.homework2.StudentTests
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 3.033 s <<< FAILURE! - in dev.m3s.programming2.homework2.StudentTests
-dev.m3s.programming2.homework2.StudentTests.birthDateTests  Time elapsed: 0.005 s  <<< ERROR!
+Tests run: 9, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 1.238 s <<< FAILURE! - in dev.m3s.programming2.homework2.StudentTests
+dev.m3s.programming2.homework2.StudentTests.birthDateTests  Time elapsed: 0.002 s  <<< ERROR!
 dev.m3s.maeaettae.jreq.RequirementException: 
 None of the methods in ⟨class Student⟩ meet the requirements for ⟨setBirthDate⟩
 	a. The method should have name matching ⟨"setBirth[Dd]ate"⟩	(0 matches)
@@ -14,7 +14,7 @@ None of the methods in ⟨class Student⟩ meet the requirements for ⟨setBirth
 	~> public String setPersonId( String )
 	at dev.m3s.programming2.homework2.StudentTests.birthDateTests(StudentTests.java:260)
 
-dev.m3s.programming2.homework2.StudentTests.parameterizedConstructorTests  Time elapsed: 0.402 s  <<< FAILURE!
+dev.m3s.programming2.homework2.StudentTests.parameterizedConstructorTests  Time elapsed: 0.246 s  <<< FAILURE!
 java.lang.AssertionError: 
 
 Parameterized constructor should utilize the

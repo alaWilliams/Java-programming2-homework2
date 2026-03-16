@@ -7,7 +7,7 @@ public class PersonID {
     return this.birthDate;
   }
 
-  public String setPersonId(final String personID) {
+  public String setPersonID(final String personID) {
     if (!checkPersonIDNumber(personID)) {
       return ConstantValues.INVALID_BIRTHDAY;
     }
