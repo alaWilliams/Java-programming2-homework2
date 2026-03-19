@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: dev.m3s.programming2.homework2.CourseTests
 -------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.484 s - in dev.m3s.programming2.homework2.CourseTests
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.774 s - in dev.m3s.programming2.homework2.CourseTests

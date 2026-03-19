@@ -1,15 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: dev.m3s.programming2.homework2.StudentToStringTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE! - in dev.m3s.programming2.homework2.StudentToStringTests
-dev.m3s.programming2.homework2.StudentToStringTests.toStringTestsV2  Time elapsed: 0.007 s  <<< ERROR!
-dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.StudentToStringTests.toStringTestsV2(StudentToStringTests.java:21)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.516 s - in dev.m3s.programming2.homework2.StudentToStringTests

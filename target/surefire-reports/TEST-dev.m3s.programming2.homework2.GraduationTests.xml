@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.GraduationTests" time="0.195" tests="16" errors="14" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.GraduationTests" time="0.484" tests="16" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363 2026-03-16T19-44-09_344-jvmRun1 surefire499815918649158111tmp surefire_06878865703492033946tmp"/>
+    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609\surefirebooter15477575032558605457.jar C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609 2026-03-19T12-50-21_692-jvmRun1 surefire17050438974719024872tmp surefire_014427697668633497997tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\alicj\Projects\java\java-homework2\target\test-classes;C:\Users\alicj\Projects\java\java-homework2\target\classes;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\alicj\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\alicj\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\maeaettae\jreq\0.4.6\jreq-0.4.6.jar;C:\Users\alicj\.m2\repository\io\github\staffan325\automated_grading\0.1.2\automated_grading-0.1.2.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-launcher\1.6.3\junit-platform-launcher-1.6.3.jar;C:\Users\alicj\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\alicj\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\alicj\.m2\repository\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;C:\Users\alicj\.m2\repository\com\puppycrawl\tools\checkstyle\10.12.3\checkstyle-10.12.3.jar;C:\Users\alicj\.m2\repository\info\picocli\picocli\4.7.4\picocli-4.7.4.jar;C:\Users\alicj\.m2\repository\org\antlr\antlr4-runtime\4.11.1\antlr4-runtime-4.11.1.jar;C:\Users\alicj\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\alicj\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\alicj\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\alicj\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar;C:\Users\alicj\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\alicj\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\alicj\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\alicj\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\alicj\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\alicj\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar;C:\Users\alicj\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar;C:\Users\alicj\.m2\repository\net\sf\saxon\Saxon-HE\12.3\Saxon-HE-12.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\alicj\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0-data.jar;C:\Users\alicj\.m2\repository\org\checkerframework\checker-qual\3.27.0\checker-qual-3.27.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-core\1.12.0\doxia-core-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.12.0\doxia-sink-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-logging-api\1.12.0\doxia-logging-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-container-default\2.1.0\plexus-container-default-2.1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.6.0\plexus-classworlds-2.6.0.jar;C:\Users\alicj\.m2\repository\org\apache\xbean\xbean-reflect\3.7\xbean-reflect-3.7.jar;C:\Users\alicj\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-component-annotations\2.1.0\plexus-component-annotations-2.1.0.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-module-xdoc\1.12.0\doxia-module-xdoc-1.12.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\programming2.checkstyle\0.0.1\programming2.checkstyle-0.0.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609\surefirebooter15477575032558605457.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-2513"/>
@@ -58,270 +58,448 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="canGraduateConditionsUnmetTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.012">
+  <testcase name="canGraduateConditionsUnmetTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0">
     <system-out><![CDATA[Calling new Student(  )
 Calling canGraduate(  )
  ✓
 ]]></system-out>
   </testcase>
-  <testcase name="canGraduateWithoutMastersCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.028">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutMastersCreditsTest(GraduationTests.java:111)
-]]></error>
+  <testcase name="canGraduateWithoutMastersCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.019">
     <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2021 )
-Calling new Course( "jcpyyqsrcb", 394798, 'P', 0, 5, 50.0, true )
-Calling new StudentCourse( [394798P (50.00 cr), "jcpyyqsrcb". Optional, period: 5.], 3, 2022 )
+Calling setStartYear( 2001 )
+Calling new Course( "aeriykemji", 576600, 'S', 1, 4, 37.0, true )
+Calling new StudentCourse( [576600S (37.00 cr), "aeriykemji". Mandatory, period: 4.], 3, 2010 )
+Calling addCourse( 0, [576600S (37.00 cr), "aeriykemji". Mandatory, period: 4.] Year: 2010, Grade: 3.] )
+Calling new Course( "aalxbbtcsg", 534757, 'S', 0, 5, 47.0, true )
+Calling new StudentCourse( [534757S (47.00 cr), "aalxbbtcsg". Optional, period: 5.], 2, 2004 )
+Calling addCourse( 0, [534757S (47.00 cr), "aalxbbtcsg". Optional, period: 5.] Year: 2004, Grade: 2.] )
+Calling new Course( "fmipsmlvgp", 769246, 'S', 0, 1, 52.0, true )
+Calling new StudentCourse( [769246S (52.00 cr), "fmipsmlvgp". Optional, period: 1.], 4, 2003 )
+Calling addCourse( 0, [769246S (52.00 cr), "fmipsmlvgp". Optional, period: 1.] Year: 2003, Grade: 4.] )
+Calling new Course( "fumacvszuq", 175248, 'P', 0, 4, 44.0, true )
+Calling new StudentCourse( [175248P (44.00 cr), "fumacvszuq". Optional, period: 4.], 4, 2018 )
+Calling addCourse( 0, [175248P (44.00 cr), "fumacvszuq". Optional, period: 4.] Year: 2018, Grade: 4.] )
+Calling setTitleOfThesis( 1, "Ending Title Exciting" )
+Calling setTitleOfThesis( 0, "New Dreaming Wonderful Bachelor" )
+Calling canGraduate(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setGraduationYearWithoutBachelorsCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.009">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
-	a. The method should have parameter type ⟨String⟩	(0 matches)
-	b. The method should have parameter count ⟨2⟩    	(0 matches)
-	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩   	(4 matches)
-	e. The method should have return type ⟨void⟩     	(8 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutBachelorsCreditsTest(GraduationTests.java:256)
-]]></error>
+  <testcase name="setGraduationYearWithoutBachelorsCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.008">
     <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2016 )
+Calling setStartYear( 2011 )
+Calling setTitleOfThesis( 0, "Dreaming Christmas New" )
+Calling setTitleOfThesis( 1, "Survive Year Ending Dreaming Purpose" )
+Calling setGraduationYear( 2026 )
+Verifying that "Check amount of required credits" matches the expected pattern
+""?Check\s+(the\s+)?amount\s+of\s+required\s+credits[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setGraduationYearWithoutBachelorsThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.005">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
-	a. The method should have parameter type ⟨String⟩	(0 matches)
-	b. The method should have parameter count ⟨2⟩    	(0 matches)
-	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩   	(4 matches)
-	e. The method should have return type ⟨void⟩     	(8 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutBachelorsThesisTitleTest(GraduationTests.java:287)
-]]></error>
+  <testcase name="setGraduationYearWithoutBachelorsThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.021">
     <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2010 )
+Calling setStartYear( 2025 )
+Calling setTitleOfThesis( 1, "Exciting Masters Purpose Christmas" )
+Calling new Course( "sedxwoerxg", 117513, 'S', 0, 3, 38.0, true )
+Calling new StudentCourse( [117513S (38.00 cr), "sedxwoerxg". Optional, period: 3.], 4, 2026 )
+Calling addCourse( 0, [117513S (38.00 cr), "sedxwoerxg". Optional, period: 3.] Year: 2026, Grade: 4.] )
+Calling new Course( "yexmgcpbzg", 569276, 'P', 0, 1, 36.0, true )
+Calling new StudentCourse( [569276P (36.00 cr), "yexmgcpbzg". Optional, period: 1.], 5, 2026 )
+Calling addCourse( 0, [569276P (36.00 cr), "yexmgcpbzg". Optional, period: 1.] Year: 2026, Grade: 5.] )
+Calling new Course( "oifzytvaih", 861990, 'A', 1, 3, 38.0, true )
+Calling new StudentCourse( [861990A (38.00 cr), "oifzytvaih". Mandatory, period: 3.], 5, 2021 )
+Calling addCourse( 0, [861990A (38.00 cr), "oifzytvaih". Mandatory, period: 3.] Year: 2021, Grade: 5.] )
+Calling new Course( "umtpamrmwc", 631164, 'P', 0, 1, 50.0, true )
+Calling new StudentCourse( [631164P (50.00 cr), "umtpamrmwc". Optional, period: 1.], 2, 2019 )
+Calling addCourse( 0, [631164P (50.00 cr), "umtpamrmwc". Optional, period: 1.] Year: 2019, Grade: 2.] )
+Calling new Course( "brhixhvimn", 322399, 'S', 1, 5, 18.0, true )
+Calling new StudentCourse( [322399S (18.00 cr), "brhixhvimn". Mandatory, period: 5.], 5, 2008 )
+Calling addCourse( 0, [322399S (18.00 cr), "brhixhvimn". Mandatory, period: 5.] Year: 2008, Grade: 5.] )
+Calling new Course( "cegpdbfphh", 354928, 'S', 0, 3, 37.0, true )
+Calling new StudentCourse( [354928S (37.00 cr), "cegpdbfphh". Optional, period: 3.], 4, 2005 )
+Calling addCourse( 1, [354928S (37.00 cr), "cegpdbfphh". Optional, period: 3.] Year: 2005, Grade: 4.] )
+Calling new Course( "ryojizyage", 741704, 'S', 1, 1, 40.0, true )
+Calling new StudentCourse( [741704S (40.00 cr), "ryojizyage". Mandatory, period: 1.], 5, 2026 )
+Calling addCourse( 1, [741704S (40.00 cr), "ryojizyage". Mandatory, period: 1.] Year: 2026, Grade: 5.] )
+Calling new Course( "xaeoplffcw", 640973, 'S', 0, 5, 43.0, true )
+Calling new StudentCourse( [640973S (43.00 cr), "xaeoplffcw". Optional, period: 5.], 3, 2002 )
+Calling addCourse( 1, [640973S (43.00 cr), "xaeoplffcw". Optional, period: 5.] Year: 2002, Grade: 3.] )
+Calling setGraduationYear( 2025 )
+Verifying that "Check amount of required credits" matches the expected pattern
+""?Check\s+(the\s+)?amount\s+of\s+required\s+credits[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setGraduationYearInvalidYearTests_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.008">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearInvalidYearTests_V2(GraduationTests.java:173)
-]]></error>
+  <testcase name="setGraduationYearInvalidYearTests_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.034">
     <system-out><![CDATA[Calling new Student(  )
 Calling setStartYear( 2024 )
-Calling new Course( "gxjrqzetuj", 829492, 'P', 1, 5, 55.0, true )
-Calling new StudentCourse( [829492P (55.00 cr), "gxjrqzetuj". Mandatory, period: 5.], 4, 2022 )
+Calling new Course( "mqonbpdfwf", 60364, 'S', 0, 5, 47.0, true )
+Calling new StudentCourse( [60364S (47.00 cr), "mqonbpdfwf". Optional, period: 5.], 2, 2009 )
+Calling addCourse( 0, [60364S (47.00 cr), "mqonbpdfwf". Optional, period: 5.] Year: 2009, Grade: 2.] )
+Calling new Course( "jhnfdaliql", 25824, 'S', 0, 4, 36.0, true )
+Calling new StudentCourse( [25824S (36.00 cr), "jhnfdaliql". Optional, period: 4.], 3, 2013 )
+Calling addCourse( 0, [25824S (36.00 cr), "jhnfdaliql". Optional, period: 4.] Year: 2013, Grade: 3.] )
+Calling new Course( "odihhkjnjj", 776649, 'A', 1, 1, 36.0, true )
+Calling new StudentCourse( [776649A (36.00 cr), "odihhkjnjj". Mandatory, period: 1.], 5, 2009 )
+Calling addCourse( 0, [776649A (36.00 cr), "odihhkjnjj". Mandatory, period: 1.] Year: 2009, Grade: 5.] )
+Calling new Course( "lvyfzvjgpu", 749187, 'P', 0, 5, 53.0, true )
+Calling new StudentCourse( [749187P (53.00 cr), "lvyfzvjgpu". Optional, period: 5.], 3, 2008 )
+Calling addCourse( 0, [749187P (53.00 cr), "lvyfzvjgpu". Optional, period: 5.] Year: 2008, Grade: 3.] )
+Calling new Course( "seqqgfztqd", 48320, 'A', 0, 3, 8.0, true )
+Calling new StudentCourse( [48320A ( 8.00 cr), "seqqgfztqd". Optional, period: 3.], 3, 2004 )
+Calling addCourse( 0, [48320A ( 8.00 cr), "seqqgfztqd". Optional, period: 3.] Year: 2004, Grade: 3.] )
+Calling new Course( "nsylnouhlk", 42833, 'S', 1, 3, 45.0, true )
+Calling new StudentCourse( [42833S (45.00 cr), "nsylnouhlk". Mandatory, period: 3.], 1, 2015 )
+Calling addCourse( 1, [42833S (45.00 cr), "nsylnouhlk". Mandatory, period: 3.] Year: 2015, Grade: 1.] )
+Calling new Course( "pndauneexg", 397656, 'A', 0, 1, 37.0, true )
+Calling new StudentCourse( [397656A (37.00 cr), "pndauneexg". Optional, period: 1.], 4, 2010 )
+Calling addCourse( 1, [397656A (37.00 cr), "pndauneexg". Optional, period: 1.] Year: 2010, Grade: 4.] )
+Calling new Course( "ixnwkzsntg", 426287, 'A', 1, 2, 38.0, true )
+Calling new StudentCourse( [426287A (38.00 cr), "ixnwkzsntg". Mandatory, period: 2.], 2, 2016 )
+Calling addCourse( 1, [426287A (38.00 cr), "ixnwkzsntg". Mandatory, period: 2.] Year: 2016, Grade: 2.] )
+Calling setTitleOfThesis( 0, "Most Thesis Bachelor Christmas" )
+Calling setTitleOfThesis( 1, "Bachelor Exciting Purpose Survive Life" )
+Calling setGraduationYear( 2000 )
+Verifying that "Check graduation year" matches the expected pattern
+""?Check\s+(the\s+)?graduation\s+year[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
+Calling setGraduationYear( 2027 )
+Verifying that "Check graduation year" matches the expected pattern
+""?Check\s+(the\s+)?graduation\s+year[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="hasGraduatedTests_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.008">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.hasGraduatedTests_V2(GraduationTests.java:324)
-]]></error>
+  <testcase name="hasGraduatedTests_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.021">
     <system-out><![CDATA[Calling new Student(  )
 Calling hasGraduated(  )
  ✓
-Calling setStartYear( 2019 )
-Calling new Course( "rbywfzrlst", 769811, 'A', 0, 2, 36.0, true )
-Calling new StudentCourse( [769811A (36.00 cr), "rbywfzrlst". Optional, period: 2.], 3, 2009 )
+Calling setStartYear( 2023 )
+Calling new Course( "omsxbxhstr", 472706, 'P', 0, 4, 54.0, true )
+Calling new StudentCourse( [472706P (54.00 cr), "omsxbxhstr". Optional, period: 4.], 4, 2023 )
+Calling addCourse( 0, [472706P (54.00 cr), "omsxbxhstr". Optional, period: 4.] Year: 2023, Grade: 4.] )
+Calling new Course( "ssihjrgcnb", 492135, 'P', 0, 4, 49.0, true )
+Calling new StudentCourse( [492135P (49.00 cr), "ssihjrgcnb". Optional, period: 4.], 3, 2013 )
+Calling addCourse( 0, [492135P (49.00 cr), "ssihjrgcnb". Optional, period: 4.] Year: 2013, Grade: 3.] )
+Calling new Course( "uirsscrkru", 376438, 'S', 0, 4, 50.0, true )
+Calling new StudentCourse( [376438S (50.00 cr), "uirsscrkru". Optional, period: 4.], 3, 2015 )
+Calling addCourse( 0, [376438S (50.00 cr), "uirsscrkru". Optional, period: 4.] Year: 2015, Grade: 3.] )
+Calling new Course( "acvmobnfss", 967412, 'P', 1, 5, 27.0, true )
+Calling new StudentCourse( [967412P (27.00 cr), "acvmobnfss". Mandatory, period: 5.], 4, 2015 )
+Calling addCourse( 0, [967412P (27.00 cr), "acvmobnfss". Mandatory, period: 5.] Year: 2015, Grade: 4.] )
+Calling new Course( "dzebxbhywn", 271675, 'A', 0, 2, 49.0, true )
+Calling new StudentCourse( [271675A (49.00 cr), "dzebxbhywn". Optional, period: 2.], 3, 2011 )
+Calling addCourse( 1, [271675A (49.00 cr), "dzebxbhywn". Optional, period: 2.] Year: 2011, Grade: 3.] )
+Calling new Course( "idkswhatfl", 171905, 'S', 1, 4, 38.0, true )
+Calling new StudentCourse( [171905S (38.00 cr), "idkswhatfl". Mandatory, period: 4.], 5, 2022 )
+Calling addCourse( 1, [171905S (38.00 cr), "idkswhatfl". Mandatory, period: 4.] Year: 2022, Grade: 5.] )
+Calling new Course( "lyjojphaug", 230836, 'S', 0, 2, 33.0, true )
+Calling new StudentCourse( [230836S (33.00 cr), "lyjojphaug". Optional, period: 2.], 5, 2025 )
+Calling addCourse( 1, [230836S (33.00 cr), "lyjojphaug". Optional, period: 2.] Year: 2025, Grade: 5.] )
+Calling setTitleOfThesis( 0, "Wonderful Christmas How" )
+Calling setTitleOfThesis( 1, "Time Life Most How" )
+Calling setGraduationYear( 2026 )
+Reading the value of private int graduationYear
+ ~> 2026
+ ✓
+Calling hasGraduated(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="canGraduateConditionsAlmostMetTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.005">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.canGraduateConditionsAlmostMetTest_V2(GraduationTests.java:148)
-]]></error>
+  <testcase name="canGraduateConditionsAlmostMetTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.072">
+    <system-out><![CDATA[Calling new Student(  )
+Calling setStartYear( 2014 )
+Calling new Course( "bieoupnudx", 632239, 'P', 1, 2, 52.0, true )
+Calling new StudentCourse( [632239P (52.00 cr), "bieoupnudx". Mandatory, period: 2.], 1, 2021 )
+Calling addCourse( 0, [632239P (52.00 cr), "bieoupnudx". Mandatory, period: 2.] Year: 2021, Grade: 1.] )
+Calling new Course( "mzyqxvawgn", 920895, 'P', 0, 3, 49.0, true )
+Calling new StudentCourse( [920895P (49.00 cr), "mzyqxvawgn". Optional, period: 3.], 5, 2020 )
+Calling addCourse( 0, [920895P (49.00 cr), "mzyqxvawgn". Optional, period: 3.] Year: 2020, Grade: 5.] )
+Calling new Course( "orimunjndo", 928359, 'A', 0, 4, 48.0, true )
+Calling new StudentCourse( [928359A (48.00 cr), "orimunjndo". Optional, period: 4.], 5, 2020 )
+Calling addCourse( 0, [928359A (48.00 cr), "orimunjndo". Optional, period: 4.] Year: 2020, Grade: 5.] )
+Calling new Course( "imrnpsbrpk", 265488, 'A', 1, 4, 30.0, true )
+Calling new StudentCourse( [265488A (30.00 cr), "imrnpsbrpk". Mandatory, period: 4.], 2, 2016 )
+Calling addCourse( 0, [265488A (30.00 cr), "imrnpsbrpk". Mandatory, period: 4.] Year: 2016, Grade: 2.] )
+Calling new Course( "zzfzqxgkrs", 804365, 'A', 1, 4, 42.0, true )
+Calling new StudentCourse( [804365A (42.00 cr), "zzfzqxgkrs". Mandatory, period: 4.], 5, 2014 )
+Calling addCourse( 1, [804365A (42.00 cr), "zzfzqxgkrs". Mandatory, period: 4.] Year: 2014, Grade: 5.] )
+Calling new Course( "dfnisgmmqx", 360054, 'A', 1, 2, 35.0, true )
+Calling new StudentCourse( [360054A (35.00 cr), "dfnisgmmqx". Mandatory, period: 2.], 3, 2016 )
+Calling addCourse( 1, [360054A (35.00 cr), "dfnisgmmqx". Mandatory, period: 2.] Year: 2016, Grade: 3.] )
+Calling new Course( "yfmbraeqjo", 750292, 'S', 0, 1, 42.0, true )
+Calling new StudentCourse( [750292S (42.00 cr), "yfmbraeqjo". Optional, period: 1.], 3, 2012 )
+Calling addCourse( 1, [750292S (42.00 cr), "yfmbraeqjo". Optional, period: 1.] Year: 2012, Grade: 3.] )
+Calling setTitleOfThesis( 0, "Time Thesis How Most Bachelor" )
+Calling setTitleOfThesis( 1, "Bachelor Thesis Masters Year" )
+Calling canGraduate(  )
+ ✓
+]]></system-out>
+  </testcase>
+  <testcase name="setGraduationYearConditionsMetTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.021">
     <system-out><![CDATA[Calling new Student(  )
 Calling setStartYear( 2025 )
-Calling new Course( "uamnxltaqd", 635958, 'A', 1, 3, 52.0, true )
-Calling new StudentCourse( [635958A (52.00 cr), "uamnxltaqd". Mandatory, period: 3.], 5, 2002 )
+Calling new Course( "utxhtuaroo", 117853, 'A', 0, 1, 45.0, true )
+Calling new StudentCourse( [117853A (45.00 cr), "utxhtuaroo". Optional, period: 1.], 1, 2009 )
+Calling addCourse( 0, [117853A (45.00 cr), "utxhtuaroo". Optional, period: 1.] Year: 2009, Grade: 1.] )
+Calling new Course( "dkxlvsiwix", 148259, 'P', 1, 5, 51.0, true )
+Calling new StudentCourse( [148259P (51.00 cr), "dkxlvsiwix". Mandatory, period: 5.], 1, 2018 )
+Calling addCourse( 0, [148259P (51.00 cr), "dkxlvsiwix". Mandatory, period: 5.] Year: 2018, Grade: 1.] )
+Calling new Course( "mfecvazchw", 976523, 'A', 0, 3, 52.0, true )
+Calling new StudentCourse( [976523A (52.00 cr), "mfecvazchw". Optional, period: 3.], 1, 2002 )
+Calling addCourse( 0, [976523A (52.00 cr), "mfecvazchw". Optional, period: 3.] Year: 2002, Grade: 1.] )
+Calling new Course( "ovonszfape", 162221, 'S', 1, 1, 32.0, true )
+Calling new StudentCourse( [162221S (32.00 cr), "ovonszfape". Mandatory, period: 1.], 4, 2012 )
+Calling addCourse( 0, [162221S (32.00 cr), "ovonszfape". Mandatory, period: 1.] Year: 2012, Grade: 4.] )
+Calling new Course( "urapoxnluy", 382421, 'P', 1, 4, 51.0, true )
+Calling new StudentCourse( [382421P (51.00 cr), "urapoxnluy". Mandatory, period: 4.], 5, 2003 )
+Calling addCourse( 1, [382421P (51.00 cr), "urapoxnluy". Mandatory, period: 4.] Year: 2003, Grade: 5.] )
+Calling new Course( "icmrmvpzrr", 433536, 'P', 0, 2, 51.0, true )
+Calling new StudentCourse( [433536P (51.00 cr), "icmrmvpzrr". Optional, period: 2.], 2, 2022 )
+Calling addCourse( 1, [433536P (51.00 cr), "icmrmvpzrr". Optional, period: 2.] Year: 2022, Grade: 2.] )
+Calling new Course( "caakewomak", 25079, 'S', 0, 3, 18.0, true )
+Calling new StudentCourse( [25079S (18.00 cr), "caakewomak". Optional, period: 3.], 2, 2021 )
+Calling addCourse( 1, [25079S (18.00 cr), "caakewomak". Optional, period: 3.] Year: 2021, Grade: 2.] )
+Calling setTitleOfThesis( 0, "Title Ending Masters Exciting Happy" )
+Calling setTitleOfThesis( 1, "Exciting Happy Life Most" )
+Calling setGraduationYear( 2025 )
+Verifying that "Ok" matches the expected pattern
+""?Ok[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
+Calling getGraduationYear(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setGraduationYearConditionsMetTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.006">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearConditionsMetTest_V2(GraduationTests.java:205)
-]]></error>
+  <testcase name="setGraduationYearStartYearTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.008">
     <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2015 )
-Calling new Course( "bisabfbkit", 807452, 'A', 0, 2, 43.0, true )
-Calling new StudentCourse( [807452A (43.00 cr), "bisabfbkit". Optional, period: 2.], 3, 2025 )
+Calling setStartYear( 2001 )
+Calling new Course( "psxmkvwffw", 702380, 'P', 0, 5, 51.0, true )
+Calling new StudentCourse( [702380P (51.00 cr), "psxmkvwffw". Optional, period: 5.], 4, 2010 )
+Calling addCourse( 0, [702380P (51.00 cr), "psxmkvwffw". Optional, period: 5.] Year: 2010, Grade: 4.] )
+Calling new Course( "cinfvedyix", 639301, 'A', 0, 5, 55.0, true )
+Calling new StudentCourse( [639301A (55.00 cr), "cinfvedyix". Optional, period: 5.], 1, 2022 )
+Calling addCourse( 0, [639301A (55.00 cr), "cinfvedyix". Optional, period: 5.] Year: 2022, Grade: 1.] )
+Calling new Course( "bfqrzqbooi", 617765, 'S', 0, 5, 45.0, true )
+Calling new StudentCourse( [617765S (45.00 cr), "bfqrzqbooi". Optional, period: 5.], 5, 2015 )
+Calling addCourse( 0, [617765S (45.00 cr), "bfqrzqbooi". Optional, period: 5.] Year: 2015, Grade: 5.] )
+Calling new Course( "ewhhsushlw", 767946, 'S', 1, 1, 29.0, true )
+Calling new StudentCourse( [767946S (29.00 cr), "ewhhsushlw". Mandatory, period: 1.], 4, 2025 )
+Calling addCourse( 0, [767946S (29.00 cr), "ewhhsushlw". Mandatory, period: 1.] Year: 2025, Grade: 4.] )
+Calling new Course( "scsoxcejse", 12928, 'S', 0, 2, 54.0, true )
+Calling new StudentCourse( [12928S (54.00 cr), "scsoxcejse". Optional, period: 2.], 2, 2008 )
+Calling addCourse( 1, [12928S (54.00 cr), "scsoxcejse". Optional, period: 2.] Year: 2008, Grade: 2.] )
+Calling new Course( "qqzrvkpkae", 162917, 'P', 1, 1, 42.0, true )
+Calling new StudentCourse( [162917P (42.00 cr), "qqzrvkpkae". Mandatory, period: 1.], 4, 2008 )
+Calling addCourse( 1, [162917P (42.00 cr), "qqzrvkpkae". Mandatory, period: 1.] Year: 2008, Grade: 4.] )
+Calling new Course( "ajjcuyvqfl", 767028, 'S', 0, 1, 24.0, true )
+Calling new StudentCourse( [767028S (24.00 cr), "ajjcuyvqfl". Optional, period: 1.], 4, 2003 )
+Calling addCourse( 1, [767028S (24.00 cr), "ajjcuyvqfl". Optional, period: 1.] Year: 2003, Grade: 4.] )
+Calling setTitleOfThesis( 0, "Time Dreaming Christmas How" )
+Calling setTitleOfThesis( 1, "Purpose Masters Exciting Bachelor To" )
+Calling setGraduationYear( 2001 )
+Verifying that "Ok" matches the expected pattern
+""?Ok[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
+Calling setGraduationYear( 2026 )
+Verifying that "Ok" matches the expected pattern
+""?Ok[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setGraduationYearStartYearTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.014">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearStartYearTest_V2(GraduationTests.java:229)
-]]></error>
-    <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2024 )
-Calling new Course( "bgvkbdnpif", 959249, 'P', 1, 1, 46.0, true )
-Calling new StudentCourse( [959249P (46.00 cr), "bgvkbdnpif". Mandatory, period: 1.], 3, 2019 )
-]]></system-out>
-  </testcase>
-  <testcase name="canGraduateWithoutMastersThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.033">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutMastersThesisTitleTest(GraduationTests.java:135)
-]]></error>
-    <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2018 )
-Calling new Course( "ttlgnwnioc", 514439, 'S', 0, 1, 51.0, true )
-Calling new StudentCourse( [514439S (51.00 cr), "ttlgnwnioc". Optional, period: 1.], 1, 2001 )
-]]></system-out>
-  </testcase>
-  <testcase name="setGraduationYearWithoutMastersThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.003">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
-	a. The method should have parameter type ⟨String⟩	(0 matches)
-	b. The method should have parameter count ⟨2⟩    	(0 matches)
-	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩   	(4 matches)
-	e. The method should have return type ⟨void⟩     	(8 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutMastersThesisTitleTest(GraduationTests.java:303)
-]]></error>
-    <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2017 )
-]]></system-out>
-  </testcase>
-  <testcase name="canGraduateConditionsMetTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.004">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.canGraduateConditionsMetTest_V2(GraduationTests.java:89)
-]]></error>
-    <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2005 )
-Calling new Course( "kbnetordyg", 761528, 'S', 0, 2, 52.0, true )
-Calling new StudentCourse( [761528S (52.00 cr), "kbnetordyg". Optional, period: 2.], 3, 2016 )
-]]></system-out>
-  </testcase>
-  <testcase name="canGraduateWithoutBachelorsCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.003">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutBachelorsCreditsTest(GraduationTests.java:99)
-]]></error>
-    <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2008 )
-Calling new Course( "zghwyrtrhl", 501182, 'P', 1, 2, 41.0, true )
-Calling new StudentCourse( [501182P (41.00 cr), "zghwyrtrhl". Mandatory, period: 2.], 2, 2011 )
-]]></system-out>
-  </testcase>
-  <testcase name="canGraduateWithoutBachelorsThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.004">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨addCourse⟩
-	a. The method should have name ⟨addCourse⟩                    	(0 matches)
-	b. The method should have parameter count ⟨2⟩                 	(0 matches)
-	c. The method should have parameter type ⟨class StudentCourse⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩                	(4 matches)
-	e. The method should have return type ⟨boolean⟩               	(6 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.canGraduateWithoutBachelorsThesisTitleTest(GraduationTests.java:123)
-]]></error>
-    <system-out><![CDATA[Calling new Student(  )
-Calling setStartYear( 2013 )
-Calling new Course( "vhdvfkyaej", 216665, 'S', 0, 1, 50.0, true )
-Calling new StudentCourse( [216665S (50.00 cr), "vhdvfkyaej". Optional, period: 1.], 5, 2002 )
-]]></system-out>
-  </testcase>
-  <testcase name="setGraduationYearWithoutMastersCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the methods in ⟨class Student⟩ meet the requirements for ⟨setTitleOfThesis⟩
-	a. The method should have parameter type ⟨String⟩	(0 matches)
-	b. The method should have parameter count ⟨2⟩    	(0 matches)
-	c. The method should have name ⟨setTitleOfThesis⟩	(0 matches)
-	d. The method should have parameter type ⟨int⟩   	(4 matches)
-	e. The method should have return type ⟨void⟩     	(8 matches)
-
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearWithoutMastersCreditsTest(GraduationTests.java:271)
-]]></error>
+  <testcase name="canGraduateWithoutMastersThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.068">
     <system-out><![CDATA[Calling new Student(  )
 Calling setStartYear( 2009 )
+Calling new Course( "ubvczxcwxp", 186317, 'P', 0, 4, 45.0, true )
+Calling new StudentCourse( [186317P (45.00 cr), "ubvczxcwxp". Optional, period: 4.], 5, 2019 )
+Calling addCourse( 0, [186317P (45.00 cr), "ubvczxcwxp". Optional, period: 4.] Year: 2019, Grade: 5.] )
+Calling new Course( "jwrdtruotx", 529153, 'S', 1, 4, 41.0, true )
+Calling new StudentCourse( [529153S (41.00 cr), "jwrdtruotx". Mandatory, period: 4.], 3, 2024 )
+Calling addCourse( 0, [529153S (41.00 cr), "jwrdtruotx". Mandatory, period: 4.] Year: 2024, Grade: 3.] )
+Calling new Course( "mzzmubtvdk", 47153, 'A', 1, 1, 44.0, true )
+Calling new StudentCourse( [47153A (44.00 cr), "mzzmubtvdk". Mandatory, period: 1.], 2, 2004 )
+Calling addCourse( 0, [47153A (44.00 cr), "mzzmubtvdk". Mandatory, period: 1.] Year: 2004, Grade: 2.] )
+Calling new Course( "qehzbkdnwk", 158317, 'P', 1, 1, 40.0, true )
+Calling new StudentCourse( [158317P (40.00 cr), "qehzbkdnwk". Mandatory, period: 1.], 4, 2013 )
+Calling addCourse( 0, [158317P (40.00 cr), "qehzbkdnwk". Mandatory, period: 1.] Year: 2013, Grade: 4.] )
+Calling new Course( "ymiysopwvb", 15493, 'S', 1, 2, 10.0, true )
+Calling new StudentCourse( [15493S (10.00 cr), "ymiysopwvb". Mandatory, period: 2.], 3, 2022 )
+Calling addCourse( 0, [15493S (10.00 cr), "ymiysopwvb". Mandatory, period: 2.] Year: 2022, Grade: 3.] )
+Calling new Course( "kklgwprsoa", 416745, 'S', 1, 4, 46.0, true )
+Calling new StudentCourse( [416745S (46.00 cr), "kklgwprsoa". Mandatory, period: 4.], 5, 2018 )
+Calling addCourse( 1, [416745S (46.00 cr), "kklgwprsoa". Mandatory, period: 4.] Year: 2018, Grade: 5.] )
+Calling new Course( "irjpxrlpjr", 676923, 'P', 1, 4, 37.0, true )
+Calling new StudentCourse( [676923P (37.00 cr), "irjpxrlpjr". Mandatory, period: 4.], 4, 2019 )
+Calling addCourse( 1, [676923P (37.00 cr), "irjpxrlpjr". Mandatory, period: 4.] Year: 2019, Grade: 4.] )
+Calling new Course( "znnbjtwxhe", 163370, 'S', 1, 4, 37.0, true )
+Calling new StudentCourse( [163370S (37.00 cr), "znnbjtwxhe". Mandatory, period: 4.], 5, 2009 )
+Calling addCourse( 1, [163370S (37.00 cr), "znnbjtwxhe". Mandatory, period: 4.] Year: 2009, Grade: 5.] )
+Calling setTitleOfThesis( 0, "Happy Most To Thesis Purpose" )
+Calling canGraduate(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setGraduationYearConditionsUnmetTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.008">
-    <failure type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: 
-setGraduationYear() should not allow new student
-to immediately graduate.
-Expected: a String matching the pattern:
-"?Check\s+(the\s+)?amount\s+of\s+required\s+credit
-[.!"]*
-     but: was: Check the required studies
-(<== see Console output for more context)
-
-Regular expression explanation:
- ?  : Element to the left is optional (e.g. colou?r)
- \s : Match any whitespace character [ \t\n\x0B\f\r]
- +  : Element to the left can occur one or more times
- (  : Start group (a "capturing group")
- )  : End capturing group
- [  : Start character class (e.g. [abc])
- .  : Match any character, literal '.' inside character class
- ]  : End character class (e.g. [^A-Z])
- *  : Element to the left can occur zero or more times
-	at dev.m3s.programming2.homework2.GraduationTests.setGraduationYearConditionsUnmetTest(GraduationTests.java:194)
-]]></failure>
+  <testcase name="setGraduationYearWithoutMastersThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.022">
     <system-out><![CDATA[Calling new Student(  )
-Calling setGraduationYear( 2023 )
-Verifying that "Check the required studies" matches the expected pattern
+Calling setStartYear( 2009 )
+Calling setTitleOfThesis( 0, "Year Of Ending Survive" )
+Calling new Course( "ijaxmggudv", 256203, 'P', 1, 3, 44.0, true )
+Calling new StudentCourse( [256203P (44.00 cr), "ijaxmggudv". Mandatory, period: 3.], 2, 2018 )
+Calling addCourse( 0, [256203P (44.00 cr), "ijaxmggudv". Mandatory, period: 3.] Year: 2018, Grade: 2.] )
+Calling new Course( "hkcahphrhe", 390410, 'S', 0, 4, 46.0, true )
+Calling new StudentCourse( [390410S (46.00 cr), "hkcahphrhe". Optional, period: 4.], 2, 2002 )
+Calling addCourse( 0, [390410S (46.00 cr), "hkcahphrhe". Optional, period: 4.] Year: 2002, Grade: 2.] )
+Calling new Course( "kwxrszqowi", 102577, 'P', 1, 4, 42.0, true )
+Calling new StudentCourse( [102577P (42.00 cr), "kwxrszqowi". Mandatory, period: 4.], 1, 2007 )
+Calling addCourse( 0, [102577P (42.00 cr), "kwxrszqowi". Mandatory, period: 4.] Year: 2007, Grade: 1.] )
+Calling new Course( "ydfyfyxilx", 492336, 'S', 1, 5, 44.0, true )
+Calling new StudentCourse( [492336S (44.00 cr), "ydfyfyxilx". Mandatory, period: 5.], 3, 2006 )
+Calling addCourse( 0, [492336S (44.00 cr), "ydfyfyxilx". Mandatory, period: 5.] Year: 2006, Grade: 3.] )
+Calling new Course( "ctzqyjgrjh", 64475, 'A', 0, 2, 4.0, true )
+Calling new StudentCourse( [64475A ( 4.00 cr), "ctzqyjgrjh". Optional, period: 2.], 5, 2019 )
+Calling addCourse( 0, [64475A ( 4.00 cr), "ctzqyjgrjh". Optional, period: 2.] Year: 2019, Grade: 5.] )
+Calling new Course( "emdxwvgzpk", 104462, 'S', 0, 5, 45.0, true )
+Calling new StudentCourse( [104462S (45.00 cr), "emdxwvgzpk". Optional, period: 5.], 2, 2007 )
+Calling addCourse( 1, [104462S (45.00 cr), "emdxwvgzpk". Optional, period: 5.] Year: 2007, Grade: 2.] )
+Calling new Course( "bdmfdefmqh", 48050, 'A', 0, 1, 45.0, true )
+Calling new StudentCourse( [48050A (45.00 cr), "bdmfdefmqh". Optional, period: 1.], 4, 2011 )
+Calling addCourse( 1, [48050A (45.00 cr), "bdmfdefmqh". Optional, period: 1.] Year: 2011, Grade: 4.] )
+Calling new Course( "dxisdmjgkj", 939404, 'S', 1, 5, 30.0, true )
+Calling new StudentCourse( [939404S (30.00 cr), "dxisdmjgkj". Mandatory, period: 5.], 4, 2024 )
+Calling addCourse( 1, [939404S (30.00 cr), "dxisdmjgkj". Mandatory, period: 5.] Year: 2024, Grade: 4.] )
+Calling setGraduationYear( 2018 )
+Verifying that "Check amount of required credits" matches the expected pattern
 ""?Check\s+(the\s+)?amount\s+of\s+required\s+credits[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
+]]></system-out>
+  </testcase>
+  <testcase name="canGraduateConditionsMetTest_V2" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.014">
+    <system-out><![CDATA[Calling new Student(  )
+Calling setStartYear( 2011 )
+Calling new Course( "mgjrsfwatt", 24050, 'A', 1, 2, 54.0, true )
+Calling new StudentCourse( [24050A (54.00 cr), "mgjrsfwatt". Mandatory, period: 2.], 3, 2025 )
+Calling addCourse( 0, [24050A (54.00 cr), "mgjrsfwatt". Mandatory, period: 2.] Year: 2025, Grade: 3.] )
+Calling new Course( "uzyzmedbur", 878216, 'S', 1, 1, 49.0, true )
+Calling new StudentCourse( [878216S (49.00 cr), "uzyzmedbur". Mandatory, period: 1.], 1, 2020 )
+Calling addCourse( 0, [878216S (49.00 cr), "uzyzmedbur". Mandatory, period: 1.] Year: 2020, Grade: 1.] )
+Calling new Course( "axvpvokmjd", 564353, 'S', 1, 5, 37.0, true )
+Calling new StudentCourse( [564353S (37.00 cr), "axvpvokmjd". Mandatory, period: 5.], 3, 2015 )
+Calling addCourse( 0, [564353S (37.00 cr), "axvpvokmjd". Mandatory, period: 5.] Year: 2015, Grade: 3.] )
+Calling new Course( "qniqnizhyl", 647312, 'A', 0, 4, 40.0, true )
+Calling new StudentCourse( [647312A (40.00 cr), "qniqnizhyl". Optional, period: 4.], 2, 2026 )
+Calling addCourse( 0, [647312A (40.00 cr), "qniqnizhyl". Optional, period: 4.] Year: 2026, Grade: 2.] )
+Calling new Course( "lloushmxdp", 330775, 'P', 0, 3, 36.0, true )
+Calling new StudentCourse( [330775P (36.00 cr), "lloushmxdp". Optional, period: 3.], 4, 2022 )
+Calling addCourse( 1, [330775P (36.00 cr), "lloushmxdp". Optional, period: 3.] Year: 2022, Grade: 4.] )
+Calling new Course( "wdwxcuzoui", 470876, 'A', 1, 5, 45.0, true )
+Calling new StudentCourse( [470876A (45.00 cr), "wdwxcuzoui". Mandatory, period: 5.], 3, 2013 )
+Calling addCourse( 1, [470876A (45.00 cr), "wdwxcuzoui". Mandatory, period: 5.] Year: 2013, Grade: 3.] )
+Calling new Course( "cqbbbofwlm", 846747, 'S', 0, 4, 39.0, true )
+Calling new StudentCourse( [846747S (39.00 cr), "cqbbbofwlm". Optional, period: 4.], 2, 2002 )
+Calling addCourse( 1, [846747S (39.00 cr), "cqbbbofwlm". Optional, period: 4.] Year: 2002, Grade: 2.] )
+Calling setTitleOfThesis( 0, "Exciting Masters To Year" )
+Calling setTitleOfThesis( 1, "The Time Thesis" )
+Calling canGraduate(  )
+ ✓
+]]></system-out>
+  </testcase>
+  <testcase name="canGraduateWithoutBachelorsCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.018">
+    <system-out><![CDATA[Calling new Student(  )
+Calling setStartYear( 2019 )
+Calling new Course( "dzkemxtgtj", 335081, 'S', 1, 4, 39.0, true )
+Calling new StudentCourse( [335081S (39.00 cr), "dzkemxtgtj". Mandatory, period: 4.], 3, 2013 )
+Calling addCourse( 1, [335081S (39.00 cr), "dzkemxtgtj". Mandatory, period: 4.] Year: 2013, Grade: 3.] )
+Calling new Course( "cndlkujsok", 960590, 'A', 1, 3, 43.0, true )
+Calling new StudentCourse( [960590A (43.00 cr), "cndlkujsok". Mandatory, period: 3.], 4, 2009 )
+Calling addCourse( 1, [960590A (43.00 cr), "cndlkujsok". Mandatory, period: 3.] Year: 2009, Grade: 4.] )
+Calling new Course( "txucwznquf", 286122, 'S', 1, 4, 38.0, true )
+Calling new StudentCourse( [286122S (38.00 cr), "txucwznquf". Mandatory, period: 4.], 2, 2004 )
+Calling addCourse( 1, [286122S (38.00 cr), "txucwznquf". Mandatory, period: 4.] Year: 2004, Grade: 2.] )
+Calling setTitleOfThesis( 0, "To Happy New The" )
+Calling setTitleOfThesis( 1, "Thesis Dreaming Life New Christmas" )
+Calling canGraduate(  )
+ ✓
+]]></system-out>
+  </testcase>
+  <testcase name="canGraduateWithoutBachelorsThesisTitleTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.029">
+    <system-out><![CDATA[Calling new Student(  )
+Calling setStartYear( 2001 )
+Calling new Course( "vtmuozojmn", 176204, 'P', 1, 2, 48.0, true )
+Calling new StudentCourse( [176204P (48.00 cr), "vtmuozojmn". Mandatory, period: 2.], 3, 2012 )
+Calling addCourse( 0, [176204P (48.00 cr), "vtmuozojmn". Mandatory, period: 2.] Year: 2012, Grade: 3.] )
+Calling new Course( "pzmwuepdxr", 69166, 'S', 1, 1, 46.0, true )
+Calling new StudentCourse( [69166S (46.00 cr), "pzmwuepdxr". Mandatory, period: 1.], 2, 2013 )
+Calling addCourse( 0, [69166S (46.00 cr), "pzmwuepdxr". Mandatory, period: 1.] Year: 2013, Grade: 2.] )
+Calling new Course( "yxywqzosot", 987792, 'A', 1, 5, 37.0, true )
+Calling new StudentCourse( [987792A (37.00 cr), "yxywqzosot". Mandatory, period: 5.], 3, 2018 )
+Calling addCourse( 0, [987792A (37.00 cr), "yxywqzosot". Mandatory, period: 5.] Year: 2018, Grade: 3.] )
+Calling new Course( "gviqojniaa", 342486, 'P', 0, 3, 49.0, true )
+Calling new StudentCourse( [342486P (49.00 cr), "gviqojniaa". Optional, period: 3.], 4, 2005 )
+Calling addCourse( 0, [342486P (49.00 cr), "gviqojniaa". Optional, period: 3.] Year: 2005, Grade: 4.] )
+Calling new Course( "pizupyaddt", 455356, 'A', 0, 3, 42.0, true )
+Calling new StudentCourse( [455356A (42.00 cr), "pizupyaddt". Optional, period: 3.], 2, 2023 )
+Calling addCourse( 1, [455356A (42.00 cr), "pizupyaddt". Optional, period: 3.] Year: 2023, Grade: 2.] )
+Calling new Course( "mgbcwtguyk", 132331, 'P', 1, 1, 49.0, true )
+Calling new StudentCourse( [132331P (49.00 cr), "mgbcwtguyk". Mandatory, period: 1.], 2, 2019 )
+Calling addCourse( 1, [132331P (49.00 cr), "mgbcwtguyk". Mandatory, period: 1.] Year: 2019, Grade: 2.] )
+Calling new Course( "wjgtftwlai", 902171, 'A', 1, 3, 29.0, true )
+Calling new StudentCourse( [902171A (29.00 cr), "wjgtftwlai". Mandatory, period: 3.], 5, 2024 )
+Calling addCourse( 1, [902171A (29.00 cr), "wjgtftwlai". Mandatory, period: 3.] Year: 2024, Grade: 5.] )
+Calling setTitleOfThesis( 1, "Year Happy Life" )
+Calling canGraduate(  )
+ ✓
+]]></system-out>
+  </testcase>
+  <testcase name="setGraduationYearWithoutMastersCreditsTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.009">
+    <system-out><![CDATA[Calling new Student(  )
+Calling setStartYear( 2018 )
+Calling setTitleOfThesis( 0, "How Bachelor Purpose" )
+Calling setTitleOfThesis( 1, "Thesis How Happy Life Wonderful" )
+Calling new Course( "dccjywdgrn", 870466, 'A', 1, 4, 49.0, true )
+Calling new StudentCourse( [870466A (49.00 cr), "dccjywdgrn". Mandatory, period: 4.], 5, 2007 )
+Calling addCourse( 0, [870466A (49.00 cr), "dccjywdgrn". Mandatory, period: 4.] Year: 2007, Grade: 5.] )
+Calling new Course( "ullotgoiav", 581514, 'S', 0, 5, 55.0, true )
+Calling new StudentCourse( [581514S (55.00 cr), "ullotgoiav". Optional, period: 5.], 2, 2003 )
+Calling addCourse( 0, [581514S (55.00 cr), "ullotgoiav". Optional, period: 5.] Year: 2003, Grade: 2.] )
+Calling new Course( "zditjylqek", 58023, 'A', 0, 3, 37.0, true )
+Calling new StudentCourse( [58023A (37.00 cr), "zditjylqek". Optional, period: 3.], 2, 2001 )
+Calling addCourse( 0, [58023A (37.00 cr), "zditjylqek". Optional, period: 3.] Year: 2001, Grade: 2.] )
+Calling new Course( "xkvunvzaul", 335646, 'A', 1, 3, 37.0, true )
+Calling new StudentCourse( [335646A (37.00 cr), "xkvunvzaul". Mandatory, period: 3.], 1, 2002 )
+Calling addCourse( 0, [335646A (37.00 cr), "xkvunvzaul". Mandatory, period: 3.] Year: 2002, Grade: 1.] )
+Calling new Course( "looyjbxyeo", 749096, 'A', 0, 1, 2.0, true )
+Calling new StudentCourse( [749096A ( 2.00 cr), "looyjbxyeo". Optional, period: 1.], 1, 2002 )
+Calling addCourse( 0, [749096A ( 2.00 cr), "looyjbxyeo". Optional, period: 1.] Year: 2002, Grade: 1.] )
+Calling setGraduationYear( 2021 )
+Verifying that "Check amount of required credits" matches the expected pattern
+""?Check\s+(the\s+)?amount\s+of\s+required\s+credits[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
+]]></system-out>
+  </testcase>
+  <testcase name="setGraduationYearConditionsUnmetTest" classname="dev.m3s.programming2.homework2.GraduationTests" time="0.004">
+    <system-out><![CDATA[Calling new Student(  )
+Calling setGraduationYear( 2024 )
+Verifying that "Check amount of required credits" matches the expected pattern
+""?Check\s+(the\s+)?amount\s+of\s+required\s+credits[.!"]*"
+ ✓
+Calling getGraduationYear(  )
+ ✓
 ]]></system-out>
   </testcase>
 </testsuite>

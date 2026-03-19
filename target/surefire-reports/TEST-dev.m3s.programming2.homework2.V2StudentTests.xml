@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.V2StudentTests" time="0.052" tests="7" errors="7" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.V2StudentTests" time="0.859" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363 2026-03-16T19-44-09_344-jvmRun1 surefire499815918649158111tmp surefire_06878865703492033946tmp"/>
+    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609\surefirebooter15477575032558605457.jar C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609 2026-03-19T12-50-21_692-jvmRun1 surefire17050438974719024872tmp surefire_014427697668633497997tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\alicj\Projects\java\java-homework2\target\test-classes;C:\Users\alicj\Projects\java\java-homework2\target\classes;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\alicj\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\alicj\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\maeaettae\jreq\0.4.6\jreq-0.4.6.jar;C:\Users\alicj\.m2\repository\io\github\staffan325\automated_grading\0.1.2\automated_grading-0.1.2.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-launcher\1.6.3\junit-platform-launcher-1.6.3.jar;C:\Users\alicj\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\alicj\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\alicj\.m2\repository\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;C:\Users\alicj\.m2\repository\com\puppycrawl\tools\checkstyle\10.12.3\checkstyle-10.12.3.jar;C:\Users\alicj\.m2\repository\info\picocli\picocli\4.7.4\picocli-4.7.4.jar;C:\Users\alicj\.m2\repository\org\antlr\antlr4-runtime\4.11.1\antlr4-runtime-4.11.1.jar;C:\Users\alicj\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\alicj\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\alicj\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\alicj\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar;C:\Users\alicj\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\alicj\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\alicj\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\alicj\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\alicj\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\alicj\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar;C:\Users\alicj\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar;C:\Users\alicj\.m2\repository\net\sf\saxon\Saxon-HE\12.3\Saxon-HE-12.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\alicj\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0-data.jar;C:\Users\alicj\.m2\repository\org\checkerframework\checker-qual\3.27.0\checker-qual-3.27.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-core\1.12.0\doxia-core-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.12.0\doxia-sink-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-logging-api\1.12.0\doxia-logging-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-container-default\2.1.0\plexus-container-default-2.1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.6.0\plexus-classworlds-2.6.0.jar;C:\Users\alicj\.m2\repository\org\apache\xbean\xbean-reflect\3.7\xbean-reflect-3.7.jar;C:\Users\alicj\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-component-annotations\2.1.0\plexus-component-annotations-2.1.0.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-module-xdoc\1.12.0\doxia-module-xdoc-1.12.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\programming2.checkstyle\0.0.1\programming2.checkstyle-0.0.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609\surefirebooter15477575032558605457.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-2513"/>
@@ -58,116 +58,862 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="printDegreesTest" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.01">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
-	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
-	b. The attribute should have type ⟨int⟩                   	(3 matches)
-	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
-
-	Closest matches:
-	~> private int id
-	~> private int graduationYear
-	~> private int startYear
-	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
-]]></error>
+  <testcase name="printDegreesTest" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.051">
     <system-out><![CDATA[Calling new Student(  )
+Reading the value of private int degreeCount
+ ~> 3
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+ ✓
+ ✓
+Calling new Course( "gxrxtifhpa", 515933, 'P', 1, 4, 27.0, true )
+Calling new StudentCourse( [515933P (27.00 cr), "gxrxtifhpa". Mandatory, period: 4.], 0, 2026 )
+Calling addCourse( 0, [515933P (27.00 cr), "gxrxtifhpa". Mandatory, period: 4.] Year: 2026, Grade: "Not graded".] )
+Calling new Course( "bzxsgzxqhh", 328943, 'P', 0, 2, 54.0, true )
+Calling new StudentCourse( [328943P (54.00 cr), "bzxsgzxqhh". Optional, period: 2.], 1, 2014 )
+Calling addCourse( 1, [328943P (54.00 cr), "bzxsgzxqhh". Optional, period: 2.] Year: 2014, Grade: 1.] )
+Calling new Course( "xqwiddrjvn", 352755, 'A', 1, 3, 9.0, true )
+Calling new StudentCourse( [352755A ( 9.00 cr), "xqwiddrjvn". Mandatory, period: 3.], 2, 2023 )
+Calling addCourse( 2, [352755A ( 9.00 cr), "xqwiddrjvn". Mandatory, period: 3.] Year: 2023, Grade: 2.] )
+Calling setDegreeTitle( 0, "Bachelor of Ppstww" )
+Calling setTitleOfThesis( 0, "Dreaming Happy New" )
+Calling setDegreeTitle( 1, "Master of Otanfw" )
+Calling setTitleOfThesis( 1, "The Ending Dreaming Of" )
+Calling setDegreeTitle( 2, "Frjxuc of Fuvncg" )
+Calling setTitleOfThesis( 2, "Purpose Of Dreaming" )
+Calling printDegrees()
+The output should match the regular expression pattern: "Degree \[Title: "?Bachelor of Ppstww"? \(courses: 1\)Thesis title: "?Dreaming Happy New"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "Degree \[Title: "?Master of Otanfw"? \(courses: 1\)Thesis title: "?The Ending Dreaming Of"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "Degree \[Title: "?Frjxuc of Fuvncg"? \(courses: 1\)Thesis title: "?Purpose Of Dreaming"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[515933P \( 27\.?00 cr\), "gxrxtifhpa"\.? Mandatory, period: 4\.?\] Year: 2026, Grade: "?Not graded"?\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[5159"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[328943P \( 54\.?00 cr\), "bzxsgzxqhh"\.? Optional, period: 2\.?\] Year: 2014, Grade: 1\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[3289"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[352755A \( 9\.?00 cr\), "xqwiddrjvn"\.? Mandatory, period: 3\.?\] Year: 2023, Grade: 2\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[3527"
+ ✓
+ ✓
+Calling new Course( "yclxeiepyw", 25078, 'P', 1, 3, 29.0, true )
+Calling new StudentCourse( [25078P (29.00 cr), "yclxeiepyw". Mandatory, period: 3.], 3, 2023 )
+Calling addCourse( 0, [25078P (29.00 cr), "yclxeiepyw". Mandatory, period: 3.] Year: 2023, Grade: 3.] )
+Calling new Course( "nzxvxdgaaf", 416335, 'A', 0, 2, 53.0, true )
+Calling new StudentCourse( [416335A (53.00 cr), "nzxvxdgaaf". Optional, period: 2.], 4, 2024 )
+Calling addCourse( 1, [416335A (53.00 cr), "nzxvxdgaaf". Optional, period: 2.] Year: 2024, Grade: 4.] )
+Calling new Course( "ugomacqfhq", 120138, 'P', 0, 4, 24.0, true )
+Calling new StudentCourse( [120138P (24.00 cr), "ugomacqfhq". Optional, period: 4.], 5, 2026 )
+Calling addCourse( 2, [120138P (24.00 cr), "ugomacqfhq". Optional, period: 4.] Year: 2026, Grade: 5.] )
+Calling setDegreeTitle( 0, "Bachelor of Ywopdf" )
+Calling setTitleOfThesis( 0, "New Life Most" )
+Calling setDegreeTitle( 1, "Master of Qckbxe" )
+Calling setTitleOfThesis( 1, "Life Masters How Most Time" )
+Calling setDegreeTitle( 2, "Dpvfol of Jdzmhf" )
+Calling setTitleOfThesis( 2, "Thesis Happy Dreaming Purpose" )
+Calling printDegrees()
+The output should match the regular expression pattern: "Degree \[Title: "?Bachelor of Ywopdf"? \(courses: 1\)Thesis title: "?New Life Most"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "Degree \[Title: "?Master of Qckbxe"? \(courses: 1\)Thesis title: "?Life Masters How Most Time"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "Degree \[Title: "?Dpvfol of Jdzmhf"? \(courses: 1\)Thesis title: "?Thesis Happy Dreaming Purpose"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[25078P \( 29\.?00 cr\), "yclxeiepyw"\.? Mandatory, period: 3\.?\] Year: 2023, Grade: 3\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[2507"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[416335A \( 53\.?00 cr\), "nzxvxdgaaf"\.? Optional, period: 2\.?\] Year: 2024, Grade: 4\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[4163"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[120138P \( 24\.?00 cr\), "ugomacqfhq"\.? Optional, period: 4\.?\] Year: 2026, Grade: 5\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[1201"
+ ✓
+ ✓
+Calling new Course( "mtewrpvjnz", 754904, 'P', 1, 4, 53.0, false )
+Calling new StudentCourse( [754904P (53.00 cr), "mtewrpvjnz". Mandatory, period: 4.], 70, 2019 )
+Calling addCourse( 0, [754904P (53.00 cr), "mtewrpvjnz". Mandatory, period: 4.] Year: 2019, Grade: F.] )
+Calling new Course( "clpfzfenvg", 53540, 'P', 0, 3, 49.0, false )
+Calling new StudentCourse( [53540P (49.00 cr), "clpfzfenvg". Optional, period: 3.], 65, 2005 )
+Calling addCourse( 1, [53540P (49.00 cr), "clpfzfenvg". Optional, period: 3.] Year: 2005, Grade: A.] )
+Calling new Course( "xditxxamlr", 373054, 'A', 0, 4, 12.0, true )
+Calling new StudentCourse( [373054A (12.00 cr), "xditxxamlr". Optional, period: 4.], 0, 2021 )
+Calling addCourse( 2, [373054A (12.00 cr), "xditxxamlr". Optional, period: 4.] Year: 2021, Grade: "Not graded".] )
+Calling new Course( "rbmyeqcezj", 405742, 'A', 0, 5, 33.0, true )
+Calling new StudentCourse( [405742A (33.00 cr), "rbmyeqcezj". Optional, period: 5.], 1, 2026 )
+Calling addCourse( 0, [405742A (33.00 cr), "rbmyeqcezj". Optional, period: 5.] Year: 2026, Grade: 1.] )
+Calling setDegreeTitle( 0, "Bachelor of Yczjri" )
+Calling setTitleOfThesis( 0, "New Time Thesis" )
+Calling setDegreeTitle( 1, "Master of Hpsqjy" )
+Calling setTitleOfThesis( 1, "Dreaming Of The Ending To" )
+Calling setDegreeTitle( 2, "Qzpayj of Sslpit" )
+Calling setTitleOfThesis( 2, "Survive Exciting Masters Thesis" )
+Calling printDegrees()
+The output should match the regular expression pattern: "Degree \[Title: "?Bachelor of Yczjri"? \(courses: 2\)Thesis title: "?New Time Thesis"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "Degree \[Title: "?Master of Hpsqjy"? \(courses: 1\)Thesis title: "?Dreaming Of The Ending To"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "Degree \[Title: "?Qzpayj of Sslpit"? \(courses: 1\)Thesis title: "?Survive Exciting Masters Thesis"?"
+Attempting to locate the starting point of the regular expression pattern: "Degree"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[754904P \( 53\.?00 cr\), "mtewrpvjnz"\.? Mandatory, period: 4\.?\] Year: 2019, Grade: F\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[7549"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[53540P \( 49\.?00 cr\), "clpfzfenvg"\.? Optional, period: 3\.?\] Year: 2005, Grade: A\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[5354"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[373054A \( 12\.?00 cr\), "xditxxamlr"\.? Optional, period: 4\.?\] Year: 2021, Grade: "?Not graded"?\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[3730"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[405742A \( 33\.?00 cr\), "rbmyeqcezj"\.? Optional, period: 5\.?\] Year: 2026, Grade: 1\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[4057"
+ ✓
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setDegreeTitleTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
-	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
-	b. The attribute should have type ⟨int⟩                   	(3 matches)
-	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
-
-	Closest matches:
-	~> private int startYear
-	~> private int graduationYear
-	~> private int id
-	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
-]]></error>
+  <testcase name="setDegreeTitleTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.005">
     <system-out><![CDATA[Calling new Student(  )
+Reading the value of private int degreeCount
+ ~> 3
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+ ✓
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+Calling setDegreeTitle( 0, "Bachelor of Npcpwu" )
+Reading the value of private String degreeTitle
+ ~> "Bachelor of Npcpwu"
+ ✓
+Calling setDegreeTitle( 0, null )
+Reading the value of private String degreeTitle
+ ~> "Bachelor of Npcpwu"
+ ✓
+Calling setDegreeTitle( 1, "Master of Gvvkvd" )
+Reading the value of private String degreeTitle
+ ~> "Master of Gvvkvd"
+ ✓
+Calling setDegreeTitle( 1, null )
+Reading the value of private String degreeTitle
+ ~> "Master of Gvvkvd"
+ ✓
+Calling setDegreeTitle( 2, "Pmowev of Lvbrrr" )
+Reading the value of private String degreeTitle
+ ~> "Pmowev of Lvbrrr"
+ ✓
+Calling setDegreeTitle( 2, null )
+Reading the value of private String degreeTitle
+ ~> "Pmowev of Lvbrrr"
+ ✓
+Calling setDegreeTitle( -1, "Pmowev of Lvbrrr" )
+Calling setDegreeTitle( 4, "Pmowev of Lvbrrr" )
 ]]></system-out>
   </testcase>
-  <testcase name="addCoursesTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
-	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
-	b. The attribute should have type ⟨int⟩                   	(3 matches)
-	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
-
-	Closest matches:
-	~> private int id
-	~> private int graduationYear
-	~> private int startYear
-	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
-]]></error>
+  <testcase name="addCoursesTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.185">
     <system-out><![CDATA[Calling new Student(  )
+Reading the value of private int degreeCount
+ ~> 3
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+ ✓
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+Testing the Degree object in degrees[0]...
+ ✓
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling addCourses( 0, null )
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling new Course( "udlmsilhue", 683016, 'A', 0, 5, 0.0, true )
+Calling new StudentCourse( [683016A ( 0.00 cr), "udlmsilhue". Optional, period: 5.], 2, 2012 )
+Calling new Course( "pyzslmwtso", 302819, 'P', 1, 4, 44.0, false )
+Calling new StudentCourse( [302819P (44.00 cr), "pyzslmwtso". Mandatory, period: 4.], 65, 2014 )
+Calling new Course( "kbdiptpjyj", 374209, 'P', 1, 2, 55.0, false )
+Calling new StudentCourse( [374209P (55.00 cr), "kbdiptpjyj". Mandatory, period: 2.], 70, 2016 )
+Calling addCourses( 0, [null, [683016A ( 0.00 cr), "udlmsilhue". Optional, period: 5.] Year: 2012, Grade: 2.], null, null, null, [302819P (44.00 cr), "pyzslmwtso". Mandatory, period: 4.] Year: 2014, Grade: A.], null, null, null, [374209P (55.00 cr), "kbdiptpjyj". Mandatory, period: 2.] Year: 2016, Grade: F.]] )
+ ✓
+Reading the value of private int count
+ ~> 3
+ ✓
+Adding courses until there are 47.
+Calling addCourses( 0, [[87716A ( 0.00 cr), "brxehfwmsb". Mandatory, period: 3.] Year: 2023, Grade: F.], [93041P (41.00 cr), "xzbsrcszfa". Optional, period: 3.] Year: 2006, Grade: 4.], [547431S (31.00 cr), "mtporgolco". Optional, period: 5.] Year: 2008, Grade: F.], [320529A (11.00 cr), "qgnqcwueng". Mandatory, period: 3.] Year: 2023, Grade: 2.], [672805A (40.00 cr), "xhxehxndgy". Optional, period: 2.] Year: 2006, Grade: "Not graded".], [314152P (29.00 cr), "vzsyplcdtb". Optional, period: 5.] Year: 2016, Grade: 5.], [367454S ( 2.00 cr), "vqzfobolxb". Mandatory, period: 3.] Year: 2003, Grade: 3.], [75764A (13.00 cr), "nakervknix". Optional, period: 3.] Year: 2024, Grade: 3.], [817588A (36.00 cr), "uykzryczae". Mandatory, period: 2.] Year: 2001, Grade: "Not graded".], [770535S (18.00 cr), "gmmusichtv". Optional, period: 5.] Year: 2024, Grade: 1.], [162050P ( 1.00 cr), "lkzmkuabtj". Mandatory, period: 4.] Year: 2020, Grade: 5.], [458403P (41.00 cr), "szpaywfjnh". Optional, period: 4.] Year: 2001, Grade: 2.], [442957P (37.00 cr), "twqornhfkp". Mandatory, period: 3.] Year: 2019, Grade: 4.], [344286S (13.00 cr), "amioivrlzm". Optional, period: 5.] Year: 2023, Grade: A.], [623055A (33.00 cr), "frtsghnbfo". Optional, period: 5.] Year: 2016, Grade: A.], [787687A (21.00 cr), "mewqsghcos". Optional, period: 3.] Year: 2010, Grade: A.], [862040S (41.00 cr), "lcewfcivtp". Optional, period: 2.] Year: 2005, Grade: 5.], [355394A (14.00 cr), "nuquptxmdb". Optional, period: 2.] Year: 2023, Grade: 4.], [835939S (39.00 cr), "uoskejsbgp". Mandatory, period: 3.] Year: 2012, Grade: "Not graded".], [494710A (49.00 cr), "folszmigjk". Optional, period: 2.] Year: 2006, Grade: 5.], [209005S (32.00 cr), "mfirosoqdw". Optional, period: 3.] Year: 2017, Grade: 5.], [786001S (47.00 cr), "ahpzwbaayd". Optional, period: 4.] Year: 2020, Grade: 1.], [259172S (20.00 cr), "mwvnqoerhf". Mandatory, period: 2.] Year: 2006, Grade: 3.], [46129S (25.00 cr), "tvpafaweyz". Optional, period: 5.] Year: 2013, Grade: 4.], [181733S (42.00 cr), "axmlyaojjj". Mandatory, period: 4.] Year: 2003, Grade: 1.], [672482P (28.00 cr), "ixsbpqsnlc". Mandatory, period: 3.] Year: 2023, Grade: A.], [600248S (41.00 cr), "hsqwdwhrlh". Optional, period: 4.] Year: 2017, Grade: 2.], [627501P ( 0.00 cr), "qejsdxgpsy". Optional, period: 1.] Year: 2026, Grade: F.], [899353S (42.00 cr), "gejqarvhzu". Optional, period: 4.] Year: 2019, Grade: 4.], [694004S (33.00 cr), "ztlchbzddg". Mandatory, period: 2.] Year: 2023, Grade: 5.], [798878S (50.00 cr), "reigargvyf". Optional, period: 3.] Year: 2015, Grade: 5.], [62549P (14.00 cr), "eahlhlhmbr". Optional, period: 5.] Year: 2021, Grade: 3.], [915281A ( 6.00 cr), "ospyqxmeqf". Mandatory, period: 4.] Year: 2021, Grade: A.], [944718S (39.00 cr), "nqtqqyisvu". Optional, period: 1.] Year: 2026, Grade: 2.], [843024S (30.00 cr), "slgccvvhwm". Optional, period: 1.] Year: 2014, Grade: F.], [972348A (35.00 cr), "vteibljwyl". Optional, period: 1.] Year: 2011, Grade: "Not graded".], [403921S (28.00 cr), "dfbxjhvxhe". Optional, period: 4.] Year: 2015, Grade: "Not graded".], [881979A (54.00 cr), "otvoowhzmu". Optional, period: 4.] Year: 2019, Grade: 3.], [602524A (37.00 cr), "smoinxjtod". Mandatory, period: 4.] Year: 2003, Grade: F.], [186160A (49.00 cr), "tgbhqclgkf". Mandatory, period: 5.] Year: 2006, Grade: F.], [666496A (53.00 cr), "qyhjueqjwd". Mandatory, period: 2.] Year: 2019, Grade: 3.], [34879P (44.00 cr), "owrxcnigft". Optional, period: 5.] Year: 2023, Grade: A.], [412704S (41.00 cr), "qkehpyvcri". Optional, period: 1.] Year: 2023, Grade: A.], [264161S (14.00 cr), "fhpmyucqof". Optional, period: 4.] Year: 2022, Grade: 5.]] )
+Reading the value of private int count
+ ~> 47
+ ✓
+Adding 7 more courses, expecting 3 as return value.
+Calling addCourses( 0, [[699067S (38.00 cr), "agttfczkpo". Mandatory, period: 2.] Year: 2015, Grade: 2.], [516934P (13.00 cr), "ymowszyawy". Optional, period: 3.] Year: 2004, Grade: F.], [577549A ( 2.00 cr), "nwtscitfnu". Mandatory, period: 3.] Year: 2011, Grade: F.], [721096S (33.00 cr), "wgcdszunjh". Optional, period: 1.] Year: 2006, Grade: 1.], [899370S (32.00 cr), "ukoeblxhhu". Optional, period: 1.] Year: 2026, Grade: 2.], [487776P (35.00 cr), "ylmrzvblmr". Optional, period: 1.] Year: 2017, Grade: F.], [237148A (15.00 cr), "niqlhtjdpx". Mandatory, period: 5.] Year: 2004, Grade: A.]] )
+ ✓
+Testing the Degree object in degrees[1]...
+ ✓
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling addCourses( 1, null )
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling new Course( "nngcuaesru", 805497, 'A', 0, 5, 10.0, true )
+Calling new StudentCourse( [805497A (10.00 cr), "nngcuaesru". Optional, period: 5.], 0, 2006 )
+Calling new Course( "nqexrgeixl", 772116, 'P', 0, 2, 43.0, false )
+Calling new StudentCourse( [772116P (43.00 cr), "nqexrgeixl". Optional, period: 2.], 70, 2017 )
+Calling new Course( "mqzqxuxoqj", 317686, 'S', 1, 5, 0.0, false )
+Calling new StudentCourse( [317686S ( 0.00 cr), "mqzqxuxoqj". Mandatory, period: 5.], 70, 2018 )
+Calling new Course( "eknffoxjkg", 428385, 'S', 0, 5, 0.0, false )
+Calling new StudentCourse( [428385S ( 0.00 cr), "eknffoxjkg". Optional, period: 5.], 70, 2001 )
+Calling new Course( "eelceghbqw", 480043, 'S', 0, 1, 24.0, false )
+Calling new StudentCourse( [480043S (24.00 cr), "eelceghbqw". Optional, period: 1.], 70, 2002 )
+Calling new Course( "ynxufqrosc", 575405, 'A', 0, 5, 51.0, false )
+Calling new StudentCourse( [575405A (51.00 cr), "ynxufqrosc". Optional, period: 5.], 65, 2008 )
+Calling new Course( "woihhakyyk", 36888, 'S', 0, 2, 13.0, true )
+Calling new StudentCourse( [36888S (13.00 cr), "woihhakyyk". Optional, period: 2.], 1, 2025 )
+Calling new Course( "hhwgjaxnxq", 394993, 'A', 1, 5, 0.0, true )
+Calling new StudentCourse( [394993A ( 0.00 cr), "hhwgjaxnxq". Mandatory, period: 5.], 5, 2006 )
+Calling new Course( "zyvuglmuwt", 662189, 'S', 0, 5, 36.0, false )
+Calling new StudentCourse( [662189S (36.00 cr), "zyvuglmuwt". Optional, period: 5.], 70, 2023 )
+Calling addCourses( 1, [[805497A (10.00 cr), "nngcuaesru". Optional, period: 5.] Year: 2006, Grade: "Not graded".], null, [772116P (43.00 cr), "nqexrgeixl". Optional, period: 2.] Year: 2017, Grade: F.], null, [317686S ( 0.00 cr), "mqzqxuxoqj". Mandatory, period: 5.] Year: 2018, Grade: F.], null, null, [428385S ( 0.00 cr), "eknffoxjkg". Optional, period: 5.] Year: 2001, Grade: F.], null, null, [480043S (24.00 cr), "eelceghbqw". Optional, period: 1.] Year: 2002, Grade: F.], null, [575405A (51.00 cr), "ynxufqrosc". Optional, period: 5.] Year: 2008, Grade: A.], [36888S (13.00 cr), "woihhakyyk". Optional, period: 2.] Year: 2025, Grade: 1.], [394993A ( 0.00 cr), "hhwgjaxnxq". Mandatory, period: 5.] Year: 2006, Grade: 5.], [662189S (36.00 cr), "zyvuglmuwt". Optional, period: 5.] Year: 2023, Grade: F.]] )
+ ✓
+Reading the value of private int count
+ ~> 9
+ ✓
+Adding courses until there are 49.
+Calling addCourses( 1, [[384825S (28.00 cr), "hmzvahftpx". Mandatory, period: 3.] Year: 2010, Grade: 1.], [629287A (36.00 cr), "citzbtfcld". Mandatory, period: 3.] Year: 2001, Grade: A.], [667249A (44.00 cr), "hvciyukrih". Optional, period: 3.] Year: 2026, Grade: A.], [348412P (47.00 cr), "eodukuotrc". Optional, period: 2.] Year: 2002, Grade: A.], [583765A (22.00 cr), "bbuglwpxov". Optional, period: 2.] Year: 2006, Grade: F.], [124349A (49.00 cr), "eiazjplbij". Mandatory, period: 5.] Year: 2003, Grade: 3.], [635139A (30.00 cr), "livmawuotv". Optional, period: 5.] Year: 2019, Grade: A.], [871700S (15.00 cr), "whzwinfqdt". Mandatory, period: 5.] Year: 2006, Grade: F.], [34944S (29.00 cr), "itawmgkmwc". Mandatory, period: 5.] Year: 2013, Grade: A.], [190321A (12.00 cr), "hyojlpzbvs". Optional, period: 5.] Year: 2021, Grade: A.], [973756A ( 0.00 cr), "bvsctbcwwu". Optional, period: 2.] Year: 2012, Grade: F.], [867145A (39.00 cr), "acarfndvhq". Mandatory, period: 3.] Year: 2021, Grade: A.], [168500A (24.00 cr), "xhqimbzacl". Optional, period: 3.] Year: 2013, Grade: A.], [267116A ( 6.00 cr), "lyjlnfsccf". Optional, period: 4.] Year: 2024, Grade: A.], [836379S ( 0.00 cr), "vkwmyximbp". Optional, period: 3.] Year: 2001, Grade: 1.], [362585P (24.00 cr), "axgiqmqsfj". Mandatory, period: 2.] Year: 2024, Grade: F.], [628551A (45.00 cr), "xehzhtzsze". Mandatory, period: 5.] Year: 2018, Grade: A.], [782091A (39.00 cr), "qkvtgnbwho". Optional, period: 4.] Year: 2010, Grade: A.], [741395S (47.00 cr), "sqqtfbcgpo". Optional, period: 1.] Year: 2017, Grade: F.], [566231P (36.00 cr), "ynptdqwjbg". Mandatory, period: 5.] Year: 2015, Grade: 2.], [438987A (21.00 cr), "kroydxabfh". Optional, period: 4.] Year: 2019, Grade: 2.], [827356A (28.00 cr), "fmbvbuylnl". Mandatory, period: 1.] Year: 2016, Grade: F.], [23020A ( 6.00 cr), "frplqzuwsq". Optional, period: 1.] Year: 2015, Grade: 3.], [776723P (23.00 cr), "lxijyljext". Mandatory, period: 2.] Year: 2017, Grade: A.], [803093P ( 4.00 cr), "cgksupkskc". Optional, period: 3.] Year: 2017, Grade: F.], [973S (33.00 cr), "tumwrlpzza". Optional, period: 2.] Year: 2020, Grade: 5.], [909406P ( 2.00 cr), "elfjwgvbno". Mandatory, period: 5.] Year: 2014, Grade: 2.], [155426P (33.00 cr), "tpzpafmebl". Mandatory, period: 4.] Year: 2004, Grade: F.], [122785S (37.00 cr), "jyababmskz". Optional, period: 2.] Year: 2013, Grade: 1.], [751088S (15.00 cr), "owvehprbev". Optional, period: 5.] Year: 2014, Grade: F.], [845538A (24.00 cr), "zutbbigtwy". Mandatory, period: 3.] Year: 2025, Grade: 5.], [804959S (51.00 cr), "dokcpbvyri". Mandatory, period: 1.] Year: 2026, Grade: 4.], [723972P (25.00 cr), "zpruexizti". Mandatory, period: 5.] Year: 2009, Grade: A.], [277597S (15.00 cr), "bfitwpjsie". Optional, period: 5.] Year: 2026, Grade: F.], [739581A (33.00 cr), "vphtvfmmlf". Optional, period: 2.] Year: 2001, Grade: A.], [742030P (21.00 cr), "kwhxletggn". Optional, period: 3.] Year: 2016, Grade: 3.], [208760S (41.00 cr), "roviwcheeq". Mandatory, period: 2.] Year: 2004, Grade: 4.], [69526A (13.00 cr), "ccxawqsiwu". Optional, period: 4.] Year: 2023, Grade: "Not graded".], [415884A ( 7.00 cr), "tkmnbctxwm". Optional, period: 5.] Year: 2010, Grade: 1.], [374462P (22.00 cr), "zutgmbtssh". Optional, period: 5.] Year: 2001, Grade: "Not graded".]] )
+Reading the value of private int count
+ ~> 49
+ ✓
+Adding 6 more courses, expecting 1 as return value.
+Calling addCourses( 1, [[568187P (52.00 cr), "clneowmecb". Optional, period: 1.] Year: 2007, Grade: 3.], [94140P (50.00 cr), "iyxxyelexj". Optional, period: 3.] Year: 2016, Grade: A.], [718749A (52.00 cr), "lvceydyavd". Mandatory, period: 4.] Year: 2003, Grade: A.], [786812S (43.00 cr), "yzgsjntknc". Mandatory, period: 2.] Year: 2022, Grade: F.], [292804S (48.00 cr), "ncysmjqeyn". Optional, period: 2.] Year: 2011, Grade: A.], [363001A (35.00 cr), "mwlhqebulx". Optional, period: 1.] Year: 2001, Grade: "Not graded".]] )
+ ✓
+Testing the Degree object in degrees[2]...
+ ✓
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling addCourses( 2, null )
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling new Course( "aniokamnqv", 687740, 'S', 0, 2, 11.0, true )
+Calling new StudentCourse( [687740S (11.00 cr), "aniokamnqv". Optional, period: 2.], 5, 2011 )
+Calling new Course( "jhrnwxfkoe", 730945, 'P', 1, 1, 7.0, false )
+Calling new StudentCourse( [730945P ( 7.00 cr), "jhrnwxfkoe". Mandatory, period: 1.], 65, 2014 )
+Calling new Course( "luhnypirsb", 472520, 'P', 0, 3, 12.0, false )
+Calling new StudentCourse( [472520P (12.00 cr), "luhnypirsb". Optional, period: 3.], 65, 2025 )
+Calling new Course( "xfsddobeks", 846968, 'S', 0, 1, 32.0, true )
+Calling new StudentCourse( [846968S (32.00 cr), "xfsddobeks". Optional, period: 1.], 2, 2011 )
+Calling new Course( "ovnmisxtyl", 895472, 'S', 1, 5, 17.0, true )
+Calling new StudentCourse( [895472S (17.00 cr), "ovnmisxtyl". Mandatory, period: 5.], 1, 2001 )
+Calling new Course( "dugscbuaso", 786620, 'S', 0, 4, 23.0, false )
+Calling new StudentCourse( [786620S (23.00 cr), "dugscbuaso". Optional, period: 4.], 70, 2002 )
+Calling new Course( "xxwlfwxmmn", 59707, 'P', 0, 2, 39.0, false )
+Calling new StudentCourse( [59707P (39.00 cr), "xxwlfwxmmn". Optional, period: 2.], 65, 2025 )
+Calling new Course( "niyivzltzx", 958729, 'S', 0, 3, 48.0, true )
+Calling new StudentCourse( [958729S (48.00 cr), "niyivzltzx". Optional, period: 3.], 1, 2016 )
+Calling new Course( "rmnfcwpcrv", 98224, 'A', 0, 5, 4.0, false )
+Calling new StudentCourse( [98224A ( 4.00 cr), "rmnfcwpcrv". Optional, period: 5.], 65, 2016 )
+Calling addCourses( 2, [null, [687740S (11.00 cr), "aniokamnqv". Optional, period: 2.] Year: 2011, Grade: 5.], [730945P ( 7.00 cr), "jhrnwxfkoe". Mandatory, period: 1.] Year: 2014, Grade: A.], [472520P (12.00 cr), "luhnypirsb". Optional, period: 3.] Year: 2025, Grade: A.], [846968S (32.00 cr), "xfsddobeks". Optional, period: 1.] Year: 2011, Grade: 2.], [895472S (17.00 cr), "ovnmisxtyl". Mandatory, period: 5.] Year: 2001, Grade: 1.], [786620S (23.00 cr), "dugscbuaso". Optional, period: 4.] Year: 2002, Grade: F.], [59707P (39.00 cr), "xxwlfwxmmn". Optional, period: 2.] Year: 2025, Grade: A.], [958729S (48.00 cr), "niyivzltzx". Optional, period: 3.] Year: 2016, Grade: 1.], null, [98224A ( 4.00 cr), "rmnfcwpcrv". Optional, period: 5.] Year: 2016, Grade: A.], null, null, null] )
+ ✓
+Reading the value of private int count
+ ~> 9
+ ✓
+Adding courses until there are 49.
+Calling addCourses( 2, [[946194A (11.00 cr), "eagixlpwae". Optional, period: 5.] Year: 2017, Grade: A.], [677764S (23.00 cr), "qtkdijxaxs". Optional, period: 4.] Year: 2025, Grade: 5.], [338085P (33.00 cr), "uwoomdubts". Mandatory, period: 2.] Year: 2013, Grade: A.], [965549A (40.00 cr), "kwcfbncrmz". Optional, period: 4.] Year: 2004, Grade: 2.], [530703A (37.00 cr), "dqdimsphzl". Mandatory, period: 3.] Year: 2007, Grade: A.], [669589A ( 2.00 cr), "iycfuhjabh". Optional, period: 2.] Year: 2002, Grade: 2.], [599545P (53.00 cr), "scymcpimyl". Optional, period: 3.] Year: 2022, Grade: F.], [269893A (11.00 cr), "iqrlpftxur". Mandatory, period: 3.] Year: 2022, Grade: 1.], [297423A (19.00 cr), "lkdhoceagr". Mandatory, period: 5.] Year: 2018, Grade: A.], [931446S (25.00 cr), "sswxptconx". Mandatory, period: 4.] Year: 2013, Grade: 3.], [102773S (11.00 cr), "jofpacweci". Optional, period: 5.] Year: 2003, Grade: F.], [167124S ( 7.00 cr), "iksrmbhjzr". Optional, period: 1.] Year: 2018, Grade: A.], [333435P (38.00 cr), "zstjtvavvo". Mandatory, period: 5.] Year: 2024, Grade: 4.], [504387A ( 9.00 cr), "ljqbpawazu". Mandatory, period: 4.] Year: 2021, Grade: F.], [120657P (22.00 cr), "zxfonxyucq". Mandatory, period: 4.] Year: 2002, Grade: A.], [927232A (17.00 cr), "bbalccdgpk". Mandatory, period: 5.] Year: 2005, Grade: F.], [807540S (53.00 cr), "qxhyvofxtt". Mandatory, period: 5.] Year: 2018, Grade: 5.], [568998S (45.00 cr), "oglwopnztn". Optional, period: 4.] Year: 2016, Grade: 2.], [115081A (11.00 cr), "bzcpgrnquu". Optional, period: 1.] Year: 2006, Grade: 3.], [895562A (39.00 cr), "upleigzthj". Optional, period: 4.] Year: 2007, Grade: 3.], [358803A ( 4.00 cr), "kuudexmuxx". Mandatory, period: 4.] Year: 2021, Grade: 5.], [778567S (16.00 cr), "aaikmkvkgc". Optional, period: 4.] Year: 2021, Grade: 5.], [584759P (19.00 cr), "qgbtuwqqrj". Optional, period: 4.] Year: 2022, Grade: 3.], [995677P ( 1.00 cr), "jxlqbxlwal". Optional, period: 5.] Year: 2016, Grade: 5.], [641860S (23.00 cr), "stgpywnxkf". Mandatory, period: 3.] Year: 2018, Grade: 4.], [379291S (31.00 cr), "nhgwrtlxqj". Mandatory, period: 2.] Year: 2008, Grade: 3.], [263522P ( 8.00 cr), "nxrrxhloes". Optional, period: 3.] Year: 2001, Grade: 1.], [464648A ( 2.00 cr), "rhapqtvxgl". Mandatory, period: 1.] Year: 2018, Grade: 4.], [124394P ( 5.00 cr), "njwumowtbv". Optional, period: 4.] Year: 2023, Grade: 5.], [695393P ( 9.00 cr), "jtghyfspgg". Mandatory, period: 4.] Year: 2001, Grade: F.], [369625S (29.00 cr), "gsxfpitlgm". Mandatory, period: 5.] Year: 2002, Grade: "Not graded".], [545701S (29.00 cr), "wvcvcyphhd". Mandatory, period: 1.] Year: 2015, Grade: 5.], [868220P (15.00 cr), "utbeclyhmu". Optional, period: 3.] Year: 2012, Grade: 3.], [962754P (25.00 cr), "vzmzhbrsva". Optional, period: 5.] Year: 2006, Grade: "Not graded".], [580991A (32.00 cr), "qgezwyeyhg". Optional, period: 3.] Year: 2008, Grade: 1.], [842580P (26.00 cr), "xtxjwkusgm". Optional, period: 4.] Year: 2018, Grade: F.], [226470S (32.00 cr), "ngnwfebayz". Mandatory, period: 5.] Year: 2025, Grade: 2.], [626573P (40.00 cr), "jcvibibsin". Mandatory, period: 5.] Year: 2023, Grade: A.], [426277P (41.00 cr), "khnotpbnbt". Optional, period: 2.] Year: 2006, Grade: 3.], [877632P (48.00 cr), "lengupecng". Mandatory, period: 1.] Year: 2020, Grade: A.]] )
+Reading the value of private int count
+ ~> 49
+ ✓
+Adding 4 more courses, expecting 1 as return value.
+Calling addCourses( 2, [[873095S (22.00 cr), "msjboehgii". Mandatory, period: 2.] Year: 2012, Grade: F.], [909157P (34.00 cr), "hrycehumav". Mandatory, period: 4.] Year: 2023, Grade: "Not graded".], [628001S (54.00 cr), "bepvybwtvx". Mandatory, period: 1.] Year: 2015, Grade: 2.], [964693S (46.00 cr), "qzmixagpix". Optional, period: 5.] Year: 2004, Grade: A.]] )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="getStudyYearsTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.017">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
-	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
-	b. The attribute should have type ⟨int⟩                   	(3 matches)
-	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
-
-	Closest matches:
-	~> private int startYear
-	~> private int id
-	~> private int graduationYear
-	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
-]]></error>
+  <testcase name="getStudyYearsTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.021">
     <system-out><![CDATA[Calling new Student(  )
+Reading the value of private int degreeCount
+ ~> 3
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+ ✓
+ ✓
+Checking whether getStudyYears(  ) returns 0
+ ~> 0 (true)
+Calling getStudyYears(  )
+ ✓
+Assigning value 2021 to private int startYear
+Calling getStudyYears(  )
+ ✓
+Calling setStartYear( 2021 )
+Calling new Course( "jgobtspanl", 428678, 'P', 0, 2, 50.0, true )
+Calling new StudentCourse( [428678P (50.00 cr), "jgobtspanl". Optional, period: 2.], 1, 2022 )
+Calling addCourse( 0, [428678P (50.00 cr), "jgobtspanl". Optional, period: 2.] Year: 2022, Grade: 1.] )
+Calling new Course( "yaucbltgkh", 130213, 'S', 1, 5, 39.0, true )
+Calling new StudentCourse( [130213S (39.00 cr), "yaucbltgkh". Mandatory, period: 5.], 2, 2018 )
+Calling addCourse( 0, [130213S (39.00 cr), "yaucbltgkh". Mandatory, period: 5.] Year: 2018, Grade: 2.] )
+Calling new Course( "acycljfsmj", 775973, 'A', 0, 2, 50.0, true )
+Calling new StudentCourse( [775973A (50.00 cr), "acycljfsmj". Optional, period: 2.], 1, 2026 )
+Calling addCourse( 0, [775973A (50.00 cr), "acycljfsmj". Optional, period: 2.] Year: 2026, Grade: 1.] )
+Calling new Course( "nuikpdkfcf", 868905, 'A', 1, 4, 41.0, true )
+Calling new StudentCourse( [868905A (41.00 cr), "nuikpdkfcf". Mandatory, period: 4.], 4, 2015 )
+Calling addCourse( 0, [868905A (41.00 cr), "nuikpdkfcf". Mandatory, period: 4.] Year: 2015, Grade: 4.] )
+Calling new Course( "krueqjefia", 409705, 'S', 0, 2, 36.0, true )
+Calling new StudentCourse( [409705S (36.00 cr), "krueqjefia". Optional, period: 2.], 2, 2008 )
+Calling addCourse( 1, [409705S (36.00 cr), "krueqjefia". Optional, period: 2.] Year: 2008, Grade: 2.] )
+Calling new Course( "sldaqgtlxw", 744615, 'A', 1, 5, 35.0, true )
+Calling new StudentCourse( [744615A (35.00 cr), "sldaqgtlxw". Mandatory, period: 5.], 3, 2023 )
+Calling addCourse( 1, [744615A (35.00 cr), "sldaqgtlxw". Mandatory, period: 5.] Year: 2023, Grade: 3.] )
+Calling new Course( "gifymovtfz", 168112, 'P', 0, 5, 49.0, true )
+Calling new StudentCourse( [168112P (49.00 cr), "gifymovtfz". Optional, period: 5.], 5, 2006 )
+Calling addCourse( 1, [168112P (49.00 cr), "gifymovtfz". Optional, period: 5.] Year: 2006, Grade: 5.] )
+Calling setTitleOfThesis( 0, "Life Of Bachelor How" )
+Calling setTitleOfThesis( 1, "Wonderful Time Purpose Ending" )
+Calling setGraduationYear( 2026 )
+Calling getStudyYears(  )
+ ✓
+Calling new Student(  )
+Assigning value 2001 to private int startYear
+Calling setStartYear( 2021 )
+Calling new Course( "qlwgbelelb", 802821, 'A', 1, 4, 40.0, true )
+Calling new StudentCourse( [802821A (40.00 cr), "qlwgbelelb". Mandatory, period: 4.], 5, 2005 )
+Calling addCourse( 0, [802821A (40.00 cr), "qlwgbelelb". Mandatory, period: 4.] Year: 2005, Grade: 5.] )
+Calling new Course( "zlyryvvfvx", 376934, 'S', 0, 5, 35.0, true )
+Calling new StudentCourse( [376934S (35.00 cr), "zlyryvvfvx". Optional, period: 5.], 5, 2003 )
+Calling addCourse( 0, [376934S (35.00 cr), "zlyryvvfvx". Optional, period: 5.] Year: 2003, Grade: 5.] )
+Calling new Course( "yfaywhxilu", 488175, 'A', 1, 4, 45.0, true )
+Calling new StudentCourse( [488175A (45.00 cr), "yfaywhxilu". Mandatory, period: 4.], 4, 2016 )
+Calling addCourse( 0, [488175A (45.00 cr), "yfaywhxilu". Mandatory, period: 4.] Year: 2016, Grade: 4.] )
+Calling new Course( "nszkujrdtp", 733695, 'A', 0, 4, 44.0, true )
+Calling new StudentCourse( [733695A (44.00 cr), "nszkujrdtp". Optional, period: 4.], 1, 2008 )
+Calling addCourse( 0, [733695A (44.00 cr), "nszkujrdtp". Optional, period: 4.] Year: 2008, Grade: 1.] )
+Calling new Course( "fiahsxfxfn", 538238, 'P', 1, 3, 16.0, true )
+Calling new StudentCourse( [538238P (16.00 cr), "fiahsxfxfn". Mandatory, period: 3.], 4, 2004 )
+Calling addCourse( 0, [538238P (16.00 cr), "fiahsxfxfn". Mandatory, period: 3.] Year: 2004, Grade: 4.] )
+Calling new Course( "ibobajpsdi", 87583, 'A', 0, 3, 46.0, true )
+Calling new StudentCourse( [87583A (46.00 cr), "ibobajpsdi". Optional, period: 3.], 1, 2019 )
+Calling addCourse( 1, [87583A (46.00 cr), "ibobajpsdi". Optional, period: 3.] Year: 2019, Grade: 1.] )
+Calling new Course( "tuaeunwgik", 861252, 'A', 1, 3, 48.0, true )
+Calling new StudentCourse( [861252A (48.00 cr), "tuaeunwgik". Mandatory, period: 3.], 1, 2006 )
+Calling addCourse( 1, [861252A (48.00 cr), "tuaeunwgik". Mandatory, period: 3.] Year: 2006, Grade: 1.] )
+Calling new Course( "tdtkxycfvg", 848518, 'S', 0, 5, 26.0, true )
+Calling new StudentCourse( [848518S (26.00 cr), "tdtkxycfvg". Optional, period: 5.], 4, 2002 )
+Calling addCourse( 1, [848518S (26.00 cr), "tdtkxycfvg". Optional, period: 5.] Year: 2002, Grade: 4.] )
+Calling setTitleOfThesis( 0, "Year The Purpose Wonderful Masters" )
+Calling setTitleOfThesis( 1, "Masters Survive Title Thesis Most" )
+Calling setGraduationYear( 2021 )
+Calling getStudyYears(  )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="addCourseTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.004">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
-	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
-	b. The attribute should have type ⟨int⟩                   	(3 matches)
-	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
-
-	Closest matches:
-	~> private int startYear
-	~> private int id
-	~> private int graduationYear
-	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
-]]></error>
+  <testcase name="addCourseTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.477">
     <system-out><![CDATA[Calling new Student(  )
+Reading the value of private int degreeCount
+ ~> 3
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+ ✓
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+Testing the Degree object in degrees[0]...
+ ✓
+Reading the value of private int count
+ ~> 0
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.StudentCourse[] myCourses
+ ~> [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+ ✓
+Calling addCourse( 0, null )
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling new Course( "hivmdoohny", 320187, 'A', 0, 1, 48.0, false )
+Calling new StudentCourse( [320187A (48.00 cr), "hivmdoohny". Optional, period: 1.], 70, 2024 )
+Checking whether addCourse( 0, [320187A (48.00 cr), "hivmdoohny". Optional, period: 1.] Year: 2024, Grade: F.] ) returns true
+ ~> true (true)
+ ✓
+Comparing the added StudentCourse object with the Degree object's myCourses[0]...
+Checking whether the two student course objects are equal:
+=> StudentCourse 2: Reading the value of private Course course
+ ~> [320187A (48.00 cr), "hivmdoohny". Optional, period: 1.]
+=> StudentCourse 1: Reading the value of private Course course
+ ~> [320187A (48.00 cr), "hivmdoohny". Optional, period: 1.]
+Checking whether the two course objects are equal:
+ => Course 2: Reading the value of private String name
+ ~> "hivmdoohny"
+ => Course 1: Checking whether private String name is "hivmdoohny"
+ ~> "hivmdoohny" (true)
+ ✓
+ => Course 2: Reading the value of private String courseCode
+ ~> "320187A"
+ => Course 1: Checking whether the value of private String courseCode matches "320187A"
+ ~> "320187A" (true)
+ ✓
+ => Course 2: Reading the value of private Character courseBase
+ ~> 'A'
+ => Course 1: Checking whether private Character courseBase is 'A'
+ ~> 'A' (true)
+ ✓
+ => Course 2: Reading the value of private int period
+ ~> 1
+ => Course 1: Checking whether private int period is 1
+ ~> 1 (true)
+ ✓
+ => Course 2: Reading the value of private double credits
+ ~> 48.0
+ => Course 1: Checking whether private double credits is 48.0
+ ~> 48.0 (true)
+ ✓
+ => Course 2: Reading the value of private boolean numericGrade
+ ~> false
+ => Course 1: Checking whether private boolean numericGrade is false
+ ~> false (true)
+ ✓
+=> The course objects are equal.
+
+=> StudentCourse 2: Reading the value of private int gradeNum
+ ~> 70
+=> StudentCourse 1: Checking whether private int gradeNum is 70
+ ~> 70 (true)
+ ✓
+=> StudentCourse 2: Reading the value of private int yearCompleted
+ ~> 2024
+=> StudentCourse 1: Checking whether private int yearCompleted is 2024
+ ~> 2024 (true)
+ ✓
+=> The student course objects are equal.
+
+Reading the value of private int count
+ ~> 1
+ ✓
+Checking whether addCourse( 0, null ) returns false
+ ~> false (true)
+ ✓
+Reading the value of private int count
+ ~> 1
+ ✓
+Adding 49 more courses.
+50 courses added. Adding one more course, expecting addCourse to return false.
+Calling new Course( "rgfdzwuclo", 546371, 'S', 0, 1, 9.0, true )
+Calling new StudentCourse( [546371S ( 9.00 cr), "rgfdzwuclo". Optional, period: 1.], 4, 2012 )
+Calling addCourse( 0, [546371S ( 9.00 cr), "rgfdzwuclo". Optional, period: 1.] Year: 2012, Grade: 4.] )
+ ✓
+Testing the Degree object in degrees[1]...
+ ✓
+Reading the value of private int count
+ ~> 0
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.StudentCourse[] myCourses
+ ~> [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+ ✓
+Calling addCourse( 1, null )
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling new Course( "jpaodmeeph", 628874, 'S', 0, 4, 17.0, false )
+Calling new StudentCourse( [628874S (17.00 cr), "jpaodmeeph". Optional, period: 4.], 70, 2008 )
+Checking whether addCourse( 1, [628874S (17.00 cr), "jpaodmeeph". Optional, period: 4.] Year: 2008, Grade: F.] ) returns true
+ ~> true (true)
+ ✓
+Comparing the added StudentCourse object with the Degree object's myCourses[1]...
+Checking whether the two student course objects are equal:
+=> StudentCourse 2: Reading the value of private Course course
+ ~> [628874S (17.00 cr), "jpaodmeeph". Optional, period: 4.]
+=> StudentCourse 1: Reading the value of private Course course
+ ~> [628874S (17.00 cr), "jpaodmeeph". Optional, period: 4.]
+Checking whether the two course objects are equal:
+ => Course 2: Reading the value of private String name
+ ~> "jpaodmeeph"
+ => Course 1: Checking whether private String name is "jpaodmeeph"
+ ~> "jpaodmeeph" (true)
+ ✓
+ => Course 2: Reading the value of private String courseCode
+ ~> "628874S"
+ => Course 1: Checking whether the value of private String courseCode matches "628874S"
+ ~> "628874S" (true)
+ ✓
+ => Course 2: Reading the value of private Character courseBase
+ ~> 'S'
+ => Course 1: Checking whether private Character courseBase is 'S'
+ ~> 'S' (true)
+ ✓
+ => Course 2: Reading the value of private int period
+ ~> 4
+ => Course 1: Checking whether private int period is 4
+ ~> 4 (true)
+ ✓
+ => Course 2: Reading the value of private double credits
+ ~> 17.0
+ => Course 1: Checking whether private double credits is 17.0
+ ~> 17.0 (true)
+ ✓
+ => Course 2: Reading the value of private boolean numericGrade
+ ~> false
+ => Course 1: Checking whether private boolean numericGrade is false
+ ~> false (true)
+ ✓
+=> The course objects are equal.
+
+=> StudentCourse 2: Reading the value of private int gradeNum
+ ~> 70
+=> StudentCourse 1: Checking whether private int gradeNum is 70
+ ~> 70 (true)
+ ✓
+=> StudentCourse 2: Reading the value of private int yearCompleted
+ ~> 2008
+=> StudentCourse 1: Checking whether private int yearCompleted is 2008
+ ~> 2008 (true)
+ ✓
+=> The student course objects are equal.
+
+Reading the value of private int count
+ ~> 1
+ ✓
+Checking whether addCourse( 1, null ) returns false
+ ~> false (true)
+ ✓
+Reading the value of private int count
+ ~> 1
+ ✓
+Adding 49 more courses.
+50 courses added. Adding one more course, expecting addCourse to return false.
+Calling new Course( "vqagfbcrzw", 501072, 'A', 1, 2, 29.0, false )
+Calling new StudentCourse( [501072A (29.00 cr), "vqagfbcrzw". Mandatory, period: 2.], 65, 2024 )
+Calling addCourse( 1, [501072A (29.00 cr), "vqagfbcrzw". Mandatory, period: 2.] Year: 2024, Grade: A.] )
+ ✓
+Testing the Degree object in degrees[2]...
+ ✓
+Reading the value of private int count
+ ~> 0
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.StudentCourse[] myCourses
+ ~> [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+ ✓
+Calling addCourse( 2, null )
+Reading the value of private int count
+ ~> 0
+ ✓
+Calling new Course( "wvqpfsdqsa", 59279, 'S', 1, 4, 5.0, false )
+Calling new StudentCourse( [59279S ( 5.00 cr), "wvqpfsdqsa". Mandatory, period: 4.], 65, 2018 )
+Checking whether addCourse( 2, [59279S ( 5.00 cr), "wvqpfsdqsa". Mandatory, period: 4.] Year: 2018, Grade: A.] ) returns true
+ ~> true (true)
+ ✓
+Comparing the added StudentCourse object with the Degree object's myCourses[2]...
+Checking whether the two student course objects are equal:
+=> StudentCourse 2: Reading the value of private Course course
+ ~> [59279S ( 5.00 cr), "wvqpfsdqsa". Mandatory, period: 4.]
+=> StudentCourse 1: Reading the value of private Course course
+ ~> [59279S ( 5.00 cr), "wvqpfsdqsa". Mandatory, period: 4.]
+Checking whether the two course objects are equal:
+ => Course 2: Reading the value of private String name
+ ~> "wvqpfsdqsa"
+ => Course 1: Checking whether private String name is "wvqpfsdqsa"
+ ~> "wvqpfsdqsa" (true)
+ ✓
+ => Course 2: Reading the value of private String courseCode
+ ~> "59279S"
+ => Course 1: Checking whether the value of private String courseCode matches "59279S"
+ ~> "59279S" (true)
+ ✓
+ => Course 2: Reading the value of private Character courseBase
+ ~> 'S'
+ => Course 1: Checking whether private Character courseBase is 'S'
+ ~> 'S' (true)
+ ✓
+ => Course 2: Reading the value of private int period
+ ~> 4
+ => Course 1: Checking whether private int period is 4
+ ~> 4 (true)
+ ✓
+ => Course 2: Reading the value of private double credits
+ ~> 5.0
+ => Course 1: Checking whether private double credits is 5.0
+ ~> 5.0 (true)
+ ✓
+ => Course 2: Reading the value of private boolean numericGrade
+ ~> false
+ => Course 1: Checking whether private boolean numericGrade is false
+ ~> false (true)
+ ✓
+=> The course objects are equal.
+
+=> StudentCourse 2: Reading the value of private int gradeNum
+ ~> 65
+=> StudentCourse 1: Checking whether private int gradeNum is 65
+ ~> 65 (true)
+ ✓
+=> StudentCourse 2: Reading the value of private int yearCompleted
+ ~> 2018
+=> StudentCourse 1: Checking whether private int yearCompleted is 2018
+ ~> 2018 (true)
+ ✓
+=> The student course objects are equal.
+
+Reading the value of private int count
+ ~> 1
+ ✓
+Checking whether addCourse( 2, null ) returns false
+ ~> false (true)
+ ✓
+Reading the value of private int count
+ ~> 1
+ ✓
+Adding 49 more courses.
+50 courses added. Adding one more course, expecting addCourse to return false.
+Calling new Course( "lrhqhkjdej", 509480, 'A', 1, 3, 16.0, true )
+Calling new StudentCourse( [509480A (16.00 cr), "lrhqhkjdej". Mandatory, period: 3.], 5, 2002 )
+Calling addCourse( 2, [509480A (16.00 cr), "lrhqhkjdej". Mandatory, period: 3.] Year: 2002, Grade: 5.] )
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="printCoursesTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.004">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
-	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
-	b. The attribute should have type ⟨int⟩                   	(3 matches)
-	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
-
-	Closest matches:
-	~> private int startYear
-	~> private int graduationYear
-	~> private int id
-	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
-]]></error>
+  <testcase name="printCoursesTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.058">
     <system-out><![CDATA[Calling new Student(  )
+Reading the value of private int degreeCount
+ ~> 3
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+ ✓
+ ✓
+Calling new Course( "mlotlohjdv", 642253, 'S', 1, 3, 16.0, true )
+Calling new StudentCourse( [642253S (16.00 cr), "mlotlohjdv". Mandatory, period: 3.], 0, 2007 )
+Calling addCourse( 0, [642253S (16.00 cr), "mlotlohjdv". Mandatory, period: 3.] Year: 2007, Grade: "Not graded".] )
+Calling new Course( "nywzcfalos", 396315, 'P', 1, 1, 1.0, true )
+Calling new StudentCourse( [396315P ( 1.00 cr), "nywzcfalos". Mandatory, period: 1.], 1, 2025 )
+Calling addCourse( 1, [396315P ( 1.00 cr), "nywzcfalos". Mandatory, period: 1.] Year: 2025, Grade: 1.] )
+Calling new Course( "oyzekmqxav", 728629, 'P', 1, 5, 6.0, true )
+Calling new StudentCourse( [728629P ( 6.00 cr), "oyzekmqxav". Mandatory, period: 5.], 2, 2018 )
+Calling addCourse( 2, [728629P ( 6.00 cr), "oyzekmqxav". Mandatory, period: 5.] Year: 2018, Grade: 2.] )
+Calling new Course( "cmykkwbmpa", 335093, 'S', 1, 1, 20.0, true )
+Calling new StudentCourse( [335093S (20.00 cr), "cmykkwbmpa". Mandatory, period: 1.], 3, 2022 )
+Calling addCourse( 0, [335093S (20.00 cr), "cmykkwbmpa". Mandatory, period: 1.] Year: 2022, Grade: 3.] )
+The output should match the regular expression pattern: "\[?\[642253S \( 16\.?00 cr\), "mlotlohjdv"\.? Mandatory, period: 3\.?\] Year: 2007, Grade: "?Not graded"?\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[6422"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[396315P \( 1\.?00 cr\), "nywzcfalos"\.? Mandatory, period: 1\.?\] Year: 2025, Grade: 1\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[3963"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[728629P \( 6\.?00 cr\), "oyzekmqxav"\.? Mandatory, period: 5\.?\] Year: 2018, Grade: 2\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[7286"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[335093S \( 20\.?00 cr\), "cmykkwbmpa"\.? Mandatory, period: 1\.?\] Year: 2022, Grade: 3\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[3350"
+ ✓
+ ✓
+Calling new Course( "dvazupmfga", 50442, 'A', 1, 5, 26.0, true )
+Calling new StudentCourse( [50442A (26.00 cr), "dvazupmfga". Mandatory, period: 5.], 4, 2012 )
+Calling addCourse( 0, [50442A (26.00 cr), "dvazupmfga". Mandatory, period: 5.] Year: 2012, Grade: 4.] )
+Calling new Course( "krufsllfrg", 633777, 'A', 0, 1, 43.0, true )
+Calling new StudentCourse( [633777A (43.00 cr), "krufsllfrg". Optional, period: 1.], 5, 2024 )
+Calling addCourse( 1, [633777A (43.00 cr), "krufsllfrg". Optional, period: 1.] Year: 2024, Grade: 5.] )
+Calling new Course( "bqhatitrzr", 965129, 'A', 1, 2, 53.0, false )
+Calling new StudentCourse( [965129A (53.00 cr), "bqhatitrzr". Mandatory, period: 2.], 70, 2010 )
+Calling addCourse( 2, [965129A (53.00 cr), "bqhatitrzr". Mandatory, period: 2.] Year: 2010, Grade: F.] )
+Calling new Course( "ogjwtvewqp", 156173, 'P', 0, 5, 15.0, false )
+Calling new StudentCourse( [156173P (15.00 cr), "ogjwtvewqp". Optional, period: 5.], 65, 2021 )
+Calling addCourse( 0, [156173P (15.00 cr), "ogjwtvewqp". Optional, period: 5.] Year: 2021, Grade: A.] )
+The output should match the regular expression pattern: "\[?\[50442A \( 26\.?00 cr\), "dvazupmfga"\.? Mandatory, period: 5\.?\] Year: 2012, Grade: 4\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[5044"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[633777A \( 43\.?00 cr\), "krufsllfrg"\.? Optional, period: 1\.?\] Year: 2024, Grade: 5\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[6337"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[965129A \( 53\.?00 cr\), "bqhatitrzr"\.? Mandatory, period: 2\.?\] Year: 2010, Grade: F\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[9651"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[156173P \( 15\.?00 cr\), "ogjwtvewqp"\.? Optional, period: 5\.?\] Year: 2021, Grade: A\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[1561"
+ ✓
+ ✓
+Calling new Course( "mtrltcbyci", 651896, 'A', 1, 1, 0.0, true )
+Calling new StudentCourse( [651896A ( 0.00 cr), "mtrltcbyci". Mandatory, period: 1.], 0, 2006 )
+Calling addCourse( 0, [651896A ( 0.00 cr), "mtrltcbyci". Mandatory, period: 1.] Year: 2006, Grade: "Not graded".] )
+Calling new Course( "jthjvxevsl", 914523, 'S', 1, 2, 16.0, true )
+Calling new StudentCourse( [914523S (16.00 cr), "jthjvxevsl". Mandatory, period: 2.], 1, 2002 )
+Calling addCourse( 1, [914523S (16.00 cr), "jthjvxevsl". Mandatory, period: 2.] Year: 2002, Grade: 1.] )
+Calling new Course( "jdytnmiupb", 616817, 'S', 0, 4, 54.0, true )
+Calling new StudentCourse( [616817S (54.00 cr), "jdytnmiupb". Optional, period: 4.], 2, 2013 )
+Calling addCourse( 2, [616817S (54.00 cr), "jdytnmiupb". Optional, period: 4.] Year: 2013, Grade: 2.] )
+Calling new Course( "nhyvlycmtt", 205770, 'P', 1, 5, 30.0, true )
+Calling new StudentCourse( [205770P (30.00 cr), "nhyvlycmtt". Mandatory, period: 5.], 3, 2016 )
+Calling addCourse( 0, [205770P (30.00 cr), "nhyvlycmtt". Mandatory, period: 5.] Year: 2016, Grade: 3.] )
+Calling new Course( "xdtyfqzwyg", 837640, 'A', 0, 2, 49.0, true )
+Calling new StudentCourse( [837640A (49.00 cr), "xdtyfqzwyg". Optional, period: 2.], 4, 2019 )
+Calling addCourse( 1, [837640A (49.00 cr), "xdtyfqzwyg". Optional, period: 2.] Year: 2019, Grade: 4.] )
+The output should match the regular expression pattern: "\[?\[651896A \( 0\.?00 cr\), "mtrltcbyci"\.? Mandatory, period: 1\.?\] Year: 2006, Grade: "?Not graded"?\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[6518"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[914523S \( 16\.?00 cr\), "jthjvxevsl"\.? Mandatory, period: 2\.?\] Year: 2002, Grade: 1\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[9145"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[616817S \( 54\.?00 cr\), "jdytnmiupb"\.? Optional, period: 4\.?\] Year: 2013, Grade: 2\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[6168"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[205770P \( 30\.?00 cr\), "nhyvlycmtt"\.? Mandatory, period: 5\.?\] Year: 2016, Grade: 3\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[2057"
+ ✓
+ ✓
+The output should match the regular expression pattern: "\[?\[837640A \( 49\.?00 cr\), "xdtyfqzwyg"\.? Optional, period: 2\.?\] Year: 2019, Grade: 4\.?\] "
+Attempting to locate the starting point of the regular expression pattern: "\[?\[8376"
+ ✓
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setTitleOfThesisTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.002">
-    <error type="dev.m3s.maeaettae.jreq.RequirementException"><![CDATA[dev.m3s.maeaettae.jreq.RequirementException: 
-None of the attributes in ⟨class Student⟩ meet the requirements for ⟨degreeCount⟩
-	a. The attribute should have name ⟨degreeCount⟩           	(0 matches)
-	b. The attribute should have type ⟨int⟩                   	(3 matches)
-	c. The attribute should have visibility modifier ⟨private⟩	(10 matches)
-
-	Closest matches:
-	~> private int id
-	~> private int graduationYear
-	~> private int startYear
-	at dev.m3s.programming2.homework2.V2StudentTests.setUp(V2StudentTests.java:60)
-]]></error>
+  <testcase name="setTitleOfThesisTests" classname="dev.m3s.programming2.homework2.V2StudentTests" time="0.01">
     <system-out><![CDATA[Calling new Student(  )
+Reading the value of private int degreeCount
+ ~> 3
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+ ✓
+ ✓
+ ✓
+Reading the value of private dev.m3s.programming2.homework2.Degree[] degrees
+ ~> [Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"], Degree [Title: "No title" (courses: 0)
+	Thesis title: "No title"]]
+Calling setTitleOfThesis( 0, "Year Happy Most Ending Purpose" )
+Reading the value of private String titleOfThesis
+ ~> "Year Happy Most Ending Purpose"
+ ✓
+Calling setTitleOfThesis( 0, null )
+Reading the value of private String titleOfThesis
+ ~> "Year Happy Most Ending Purpose"
+ ✓
+Calling setTitleOfThesis( 1, "Survive The Purpose" )
+Reading the value of private String titleOfThesis
+ ~> "Survive The Purpose"
+ ✓
+Calling setTitleOfThesis( 1, null )
+Reading the value of private String titleOfThesis
+ ~> "Survive The Purpose"
+ ✓
+Calling setTitleOfThesis( 2, "Year Time Of Most Happy" )
+Reading the value of private String titleOfThesis
+ ~> "Year Time Of Most Happy"
+ ✓
+Calling setTitleOfThesis( 2, null )
+Reading the value of private String titleOfThesis
+ ~> "Year Time Of Most Happy"
+ ✓
 ]]></system-out>
   </testcase>
 </testsuite>

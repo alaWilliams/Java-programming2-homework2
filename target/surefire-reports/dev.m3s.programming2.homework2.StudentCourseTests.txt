@@ -1,20 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: dev.m3s.programming2.homework2.StudentCourseTests
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.188 s <<< FAILURE! - in dev.m3s.programming2.homework2.StudentCourseTests
-dev.m3s.programming2.homework2.StudentCourseTests.isPassedLetterTests  Time elapsed: 0.02 s  <<< FAILURE!
-java.lang.AssertionError: 
-Incorrect return value of isPassed
-Expected: is ⟨false⟩
-     but: was ⟨true⟩
-(<== see Console output for more context)
-	at dev.m3s.programming2.homework2.StudentCourseTests.isPassedLetterTests(StudentCourseTests.java:255)
-
-dev.m3s.programming2.homework2.StudentCourseTests.checkGradeValidityTests  Time elapsed: 0.014 s  <<< FAILURE!
-java.lang.AssertionError: 
-Incorrect return value of checkGradeValidity
-Expected: is ⟨true⟩
-     but: was ⟨false⟩
-(<== see Console output for more context)
-	at dev.m3s.programming2.homework2.StudentCourseTests.checkGradeValidityTests(StudentCourseTests.java:170)
-
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.26 s - in dev.m3s.programming2.homework2.StudentCourseTests

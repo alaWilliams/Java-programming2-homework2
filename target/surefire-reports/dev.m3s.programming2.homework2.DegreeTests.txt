@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: dev.m3s.programming2.homework2.DegreeTests
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.444 s - in dev.m3s.programming2.homework2.DegreeTests
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.705 s - in dev.m3s.programming2.homework2.DegreeTests

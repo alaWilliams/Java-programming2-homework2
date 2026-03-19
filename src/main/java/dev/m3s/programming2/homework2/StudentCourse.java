@@ -30,6 +30,9 @@ public class StudentCourse {
 
   protected void setGrade(int gradeNum) {
     if (checkGradeValidity(gradeNum)) {
+      if (course == null || !course.isNumericGrade()) {
+        gradeNum = Character.toUpperCase((char) gradeNum);
+      }
       this.gradeNum = gradeNum;
       if (yearCompleted == 0) {
         yearCompleted = LocalDate.now().getYear();
@@ -41,7 +44,8 @@ public class StudentCourse {
     if (course != null && course.isNumericGrade()) {
       return gradeNum >= ConstantValues.MIN_GRADE && gradeNum <= ConstantValues.MAX_GRADE;
     } else {
-      return gradeNum == ConstantValues.GRADE_FAILED || gradeNum == ConstantValues.GRADE_ACCEPTED;
+      char g = Character.toUpperCase((char) gradeNum);
+      return g == ConstantValues.GRADE_FAILED || g == ConstantValues.GRADE_ACCEPTED;
     }
   }
 

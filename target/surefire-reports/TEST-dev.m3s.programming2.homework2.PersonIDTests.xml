@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.PersonIDTests" time="0.163" tests="6" errors="1" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dev.m3s.programming2.homework2.PersonIDTests" time="0.44" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363 2026-03-16T19-44-09_344-jvmRun1 surefire499815918649158111tmp surefire_06878865703492033946tmp"/>
+    <property name="sun.java.command" value="C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609\surefirebooter15477575032558605457.jar C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609 2026-03-19T12-50-21_692-jvmRun1 surefire17050438974719024872tmp surefire_014427697668633497997tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\alicj\Projects\java\java-homework2\target\test-classes;C:\Users\alicj\Projects\java\java-homework2\target\classes;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\alicj\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\alicj\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\maeaettae\jreq\0.4.6\jreq-0.4.6.jar;C:\Users\alicj\.m2\repository\io\github\staffan325\automated_grading\0.1.2\automated_grading-0.1.2.jar;C:\Users\alicj\.m2\repository\org\junit\platform\junit-platform-launcher\1.6.3\junit-platform-launcher-1.6.3.jar;C:\Users\alicj\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\alicj\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\alicj\.m2\repository\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;C:\Users\alicj\.m2\repository\com\puppycrawl\tools\checkstyle\10.12.3\checkstyle-10.12.3.jar;C:\Users\alicj\.m2\repository\info\picocli\picocli\4.7.4\picocli-4.7.4.jar;C:\Users\alicj\.m2\repository\org\antlr\antlr4-runtime\4.11.1\antlr4-runtime-4.11.1.jar;C:\Users\alicj\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar;C:\Users\alicj\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\alicj\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\alicj\.m2\repository\com\google\guava\guava\32.0.1-jre\guava-32.0.1-jre.jar;C:\Users\alicj\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\alicj\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\alicj\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\alicj\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\alicj\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\alicj\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar;C:\Users\alicj\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar;C:\Users\alicj\.m2\repository\net\sf\saxon\Saxon-HE\12.3\Saxon-HE-12.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\alicj\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\alicj\.m2\repository\org\xmlresolver\xmlresolver\5.2.0\xmlresolver-5.2.0-data.jar;C:\Users\alicj\.m2\repository\org\checkerframework\checker-qual\3.27.0\checker-qual-3.27.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-core\1.12.0\doxia-core-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.12.0\doxia-sink-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-logging-api\1.12.0\doxia-logging-api-1.12.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-container-default\2.1.0\plexus-container-default-2.1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.6.0\plexus-classworlds-2.6.0.jar;C:\Users\alicj\.m2\repository\org\apache\xbean\xbean-reflect\3.7\xbean-reflect-3.7.jar;C:\Users\alicj\.m2\repository\com\google\collections\google-collections\1.0\google-collections-1.0.jar;C:\Users\alicj\.m2\repository\org\codehaus\plexus\plexus-component-annotations\2.1.0\plexus-component-annotations-2.1.0.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\alicj\.m2\repository\org\apache\commons\commons-text\1.3\commons-text-1.3.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\alicj\.m2\repository\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;C:\Users\alicj\.m2\repository\org\apache\maven\doxia\doxia-module-xdoc\1.12.0\doxia-module-xdoc-1.12.0.jar;C:\Users\alicj\.m2\repository\dev\m3s\programming2.checkstyle\0.0.1\programming2.checkstyle-0.0.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire10768021025646012363\surefirebooter1161453314926452298.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\alicj\AppData\Local\Temp\surefire5673934251734629609\surefirebooter15477575032558605457.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-2513"/>
@@ -58,85 +58,85 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="checkBirthDateTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.045">
+  <testcase name="checkBirthDateTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.082">
     <system-out><![CDATA[Calling new PersonID(  )
 Testing with valid dates
-Calling checkBirthdate( "28.02.2068" )
+Calling checkBirthdate( "09.03.1990" )
  ✓
-Calling checkBirthdate( "11.08.2041" )
+Calling checkBirthdate( "22.01.1996" )
  ✓
-Calling checkBirthdate( "01.07.2009" )
+Calling checkBirthdate( "14.07.2021" )
  ✓
-Calling checkBirthdate( "28.07.2057" )
+Calling checkBirthdate( "24.04.2055" )
  ✓
-Calling checkBirthdate( "11.09.1990" )
+Calling checkBirthdate( "21.07.2033" )
  ✓
-Calling checkBirthdate( "12.04.2000" )
+Calling checkBirthdate( "05.09.2006" )
  ✓
-Calling checkBirthdate( "28.04.2000" )
+Calling checkBirthdate( "16.09.1999" )
  ✓
-Calling checkBirthdate( "18.09.1999" )
+Calling checkBirthdate( "17.12.2003" )
  ✓
-Calling checkBirthdate( "10.09.1970" )
+Calling checkBirthdate( "25.07.2047" )
  ✓
-Calling checkBirthdate( "20.06.1980" )
+Calling checkBirthdate( "12.05.2003" )
  ✓
 Testing with invalid dates
-Calling checkBirthdate( "00.00.1981" )
+Calling checkBirthdate( "00.00.1982" )
  ✓
-Calling checkBirthdate( "32.01.1981" )
+Calling checkBirthdate( "32.01.1982" )
  ✓
-Calling checkBirthdate( "00.01.1981" )
+Calling checkBirthdate( "00.01.1982" )
  ✓
-Calling checkBirthdate( "29.02.1981" )
+Calling checkBirthdate( "29.02.1982" )
  ✓
-Calling checkBirthdate( "00.02.1981" )
+Calling checkBirthdate( "00.02.1982" )
  ✓
-Calling checkBirthdate( "32.03.1981" )
+Calling checkBirthdate( "32.03.1982" )
  ✓
-Calling checkBirthdate( "00.03.1981" )
+Calling checkBirthdate( "00.03.1982" )
  ✓
-Calling checkBirthdate( "31.04.1981" )
+Calling checkBirthdate( "31.04.1982" )
  ✓
-Calling checkBirthdate( "00.04.1981" )
+Calling checkBirthdate( "00.04.1982" )
  ✓
-Calling checkBirthdate( "32.05.1981" )
+Calling checkBirthdate( "32.05.1982" )
  ✓
-Calling checkBirthdate( "00.05.1981" )
+Calling checkBirthdate( "00.05.1982" )
  ✓
-Calling checkBirthdate( "31.06.1981" )
+Calling checkBirthdate( "31.06.1982" )
  ✓
-Calling checkBirthdate( "00.06.1981" )
+Calling checkBirthdate( "00.06.1982" )
  ✓
-Calling checkBirthdate( "32.07.1981" )
+Calling checkBirthdate( "32.07.1982" )
  ✓
-Calling checkBirthdate( "00.07.1981" )
+Calling checkBirthdate( "00.07.1982" )
  ✓
-Calling checkBirthdate( "32.08.1981" )
+Calling checkBirthdate( "32.08.1982" )
  ✓
-Calling checkBirthdate( "00.08.1981" )
+Calling checkBirthdate( "00.08.1982" )
  ✓
-Calling checkBirthdate( "31.09.1981" )
+Calling checkBirthdate( "31.09.1982" )
  ✓
-Calling checkBirthdate( "00.09.1981" )
+Calling checkBirthdate( "00.09.1982" )
  ✓
-Calling checkBirthdate( "32.10.1981" )
+Calling checkBirthdate( "32.10.1982" )
  ✓
-Calling checkBirthdate( "00.10.1981" )
+Calling checkBirthdate( "00.10.1982" )
  ✓
-Calling checkBirthdate( "31.11.1981" )
+Calling checkBirthdate( "31.11.1982" )
  ✓
-Calling checkBirthdate( "00.11.1981" )
+Calling checkBirthdate( "00.11.1982" )
  ✓
-Calling checkBirthdate( "32.12.1981" )
+Calling checkBirthdate( "32.12.1982" )
  ✓
-Calling checkBirthdate( "00.12.1981" )
+Calling checkBirthdate( "00.12.1982" )
  ✓
-Calling checkBirthdate( "32.13.1981" )
+Calling checkBirthdate( "32.13.1982" )
  ✓
-Calling checkBirthdate( "00.13.1981" )
+Calling checkBirthdate( "00.13.1982" )
  ✓
-Calling checkBirthdate( "32.13.1981" )
+Calling checkBirthdate( "32.13.1982" )
  ✓
 Calling checkBirthdate( "30.02.1904" )
  ✓
@@ -240,7 +240,7 @@ Calling checkBirthdate( "30.02.2104" )
  ✓
 ]]></system-out>
   </testcase>
-  <testcase name="getBirthDateTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.004">
+  <testcase name="getBirthDateTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.005">
     <system-out><![CDATA[Calling new PersonID(  )
 Reading the value of private String birthDate
  ~> "Not available"
@@ -261,77 +261,121 @@ Comparing the return value of the getter to the value
 of the attribute after setting a new value directly
 (ignoring the visibility modifier):
 -----------------------------------------------------
-Assigning value "15.12.2041" to private String birthDate
-Checking whether getBirthDate(  ) returns a String matching "15.12.2041"
- ~> "15.12.2041" (true)
+Assigning value "12.04.2040" to private String birthDate
+Checking whether getBirthDate(  ) returns a String matching "12.04.2040"
+ ~> "12.04.2040" (true)
  ✓
 ]]></system-out>
   </testcase>
-  <testcase name="checkPersonIDNumberTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.035">
+  <testcase name="checkPersonIDNumberTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.03">
     <system-out><![CDATA[Calling new PersonID(  )
-Checking whether checkPersonIDNumber( "030771-118P" ) returns true
+Checking whether checkPersonIDNumber( "061112-7833" ) returns true
  ~> true (true)
  ✓
-Checking whether checkPersonIDNumber( "011000+732A" ) returns true
+Checking whether checkPersonIDNumber( "210121+190W" ) returns true
  ~> true (true)
  ✓
-Checking whether checkPersonIDNumber( "060802A391E" ) returns true
+Checking whether checkPersonIDNumber( "250922A695F" ) returns true
  ~> true (true)
  ✓
-Checking whether checkPersonIDNumber( "150504+835Nq" ) returns false
+Checking whether checkPersonIDNumber( "160364+1204r" ) returns false
  ~> false (true)
  ✓
-Checking whether checkPersonIDNumber( "240302-238" ) returns false
+Checking whether checkPersonIDNumber( "110681+867" ) returns false
  ~> false (true)
  ✓
-Checking whether checkPersonIDNumber( "28060A765V" ) returns false
+Checking whether checkPersonIDNumber( "01220-784S" ) returns false
  ~> false (true)
  ✓
-Checking whether checkPersonIDNumber( "040120)1402" ) returns false
+Checking whether checkPersonIDNumber( "110739(7898" ) returns false
  ~> false (true)
  ✓
 ]]></system-out>
   </testcase>
-  <testcase name="setPersonIDTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.013">
-    <error type="dev.m3s.maeaettae.jreq.TargetException"><![CDATA[dev.m3s.maeaettae.jreq.TargetException: 
-java.lang.NullPointerException: Cannot invoke "String.length()" because "personID" is null
-	@ dev.m3s.programming2.homework2.PersonID.checkPersonIDNumber(PersonID.java:34)
-	at dev.m3s.programming2.homework2.PersonIDTests.setPersonIDTests(PersonIDTests.java:68)
-Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "personID" is null
-	at dev.m3s.programming2.homework2.PersonIDTests.setPersonIDTests(PersonIDTests.java:68)
-]]></error>
+  <testcase name="setPersonIDTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.204">
     <system-out><![CDATA[Calling new PersonID(  )
-Calling setPersonID( "200708-5755" )
+Calling setPersonID( "040899-7880" )
 Verifying that "Ok" matches the expected pattern
 ""?Ok[.!"]*"
  ✓
 Reading the value of private String birthDate
- ~> "20.07.1908"
+ ~> "04.08.1999"
  ✓
-Calling setPersonID( "131218+869R" )
+Calling setPersonID( "270490+359E" )
 Verifying that "Ok" matches the expected pattern
 ""?Ok[.!"]*"
  ✓
 Reading the value of private String birthDate
- ~> "13.12.1818"
+ ~> "27.04.1890"
  ✓
-Calling setPersonID( "251008A270Y" )
+Calling setPersonID( "240402A532C" )
 Verifying that "Ok" matches the expected pattern
 ""?Ok[.!"]*"
  ✓
 Reading the value of private String birthDate
- ~> "25.10.2008"
+ ~> "24.04.2002"
  ✓
 
 Verifying that calling setPersonId with null argument
 returns "Invalid birthday!", and that the birthDate
 is not changed:
 Reading the value of private String birthDate
- ~> "25.10.2008"
+ ~> "24.04.2002"
 Calling setPersonID( null )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+Reading the value of private String birthDate
+ ~> "24.04.2002"
+ ✓
+OK
+
+Calling setPersonID( "101192-601Eb" )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+Calling setPersonID( "141092+433" )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+Calling setPersonID( "100111F2217" )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+Calling setPersonID( "170252M575J" )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+Calling setPersonID( "041159[578A" )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+Calling setPersonID( "160233(431B" )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+Calling setPersonID( "200183+729G" )
+Verifying that "Incorrect check mark!" matches the expected pattern
+""?Incorrect\s+check\s*mark[.!"]*"
+ ✓
+Calling setPersonID( "281050+712C" )
+Verifying that "Incorrect check mark!" matches the expected pattern
+""?Incorrect\s+check\s*mark[.!"]*"
+ ✓
+Calling setPersonID( "xrubngrmqrk" )
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
+
+Invalid date: 00.02.2011
+Calling setPersonID( "000211A314K" )
+Return value: "Invalid birthday!"
+Verifying that "Invalid birthday!" matches the expected pattern
+""?Invalid\s+birthday[.!"]*"
+ ✓
 ]]></system-out>
   </testcase>
-  <testcase name="checkLeapYearTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.012">
+  <testcase name="checkLeapYearTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.071">
     <system-out><![CDATA[Calling new PersonID(  )
 Testing leap years...
  ✓
@@ -339,147 +383,147 @@ Testing non-leap years...
  ✓
 ]]></system-out>
   </testcase>
-  <testcase name="checkValidCharacterTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.031">
+  <testcase name="checkValidCharacterTests" classname="dev.m3s.programming2.homework2.PersonIDTests" time="0.025">
     <system-out><![CDATA[Calling new PersonID(  )
-Calling checkValidCharacter( "200376-2212" )
+Calling checkValidCharacter( "180489-771N" )
  ✓
-Calling checkValidCharacter( "200376-221G" )
+Calling checkValidCharacter( "180489-771G" )
  ✓
-Calling checkValidCharacter( "200376-221I" )
+Calling checkValidCharacter( "180489-771I" )
  ✓
-Calling checkValidCharacter( "200376-221O" )
+Calling checkValidCharacter( "180489-771O" )
  ✓
-Calling checkValidCharacter( "200376-221Q" )
+Calling checkValidCharacter( "180489-771Q" )
  ✓
-Calling checkValidCharacter( "200376-221Z" )
+Calling checkValidCharacter( "180489-771Z" )
  ✓
-Calling checkValidCharacter( "070722A753J" )
+Calling checkValidCharacter( "271063-2022" )
  ✓
-Calling checkValidCharacter( "270371-268T" )
+Calling checkValidCharacter( "150835-107L" )
  ✓
-Calling checkValidCharacter( "270371-268G" )
+Calling checkValidCharacter( "150835-107G" )
  ✓
-Calling checkValidCharacter( "270371-268I" )
+Calling checkValidCharacter( "150835-107I" )
  ✓
-Calling checkValidCharacter( "270371-268O" )
+Calling checkValidCharacter( "150835-107O" )
  ✓
-Calling checkValidCharacter( "270371-268Q" )
+Calling checkValidCharacter( "150835-107Q" )
  ✓
-Calling checkValidCharacter( "270371-268Z" )
+Calling checkValidCharacter( "150835-107Z" )
  ✓
-Calling checkValidCharacter( "220645+200W" )
+Calling checkValidCharacter( "090218A6080" )
  ✓
-Calling checkValidCharacter( "151206-151S" )
+Calling checkValidCharacter( "010427-465U" )
  ✓
-Calling checkValidCharacter( "151206-151G" )
+Calling checkValidCharacter( "010427-465G" )
  ✓
-Calling checkValidCharacter( "151206-151I" )
+Calling checkValidCharacter( "010427-465I" )
  ✓
-Calling checkValidCharacter( "151206-151O" )
+Calling checkValidCharacter( "010427-465O" )
  ✓
-Calling checkValidCharacter( "151206-151Q" )
+Calling checkValidCharacter( "010427-465Q" )
  ✓
-Calling checkValidCharacter( "151206-151Z" )
+Calling checkValidCharacter( "010427-465Z" )
  ✓
-Calling checkValidCharacter( "181139-314Y" )
+Calling checkValidCharacter( "140743-3064" )
  ✓
-Calling checkValidCharacter( "190466-320U" )
+Calling checkValidCharacter( "260955-175V" )
  ✓
-Calling checkValidCharacter( "190466-320G" )
+Calling checkValidCharacter( "260955-175G" )
  ✓
-Calling checkValidCharacter( "190466-320I" )
+Calling checkValidCharacter( "260955-175I" )
  ✓
-Calling checkValidCharacter( "190466-320O" )
+Calling checkValidCharacter( "260955-175O" )
  ✓
-Calling checkValidCharacter( "190466-320Q" )
+Calling checkValidCharacter( "260955-175Q" )
  ✓
-Calling checkValidCharacter( "190466-320Z" )
+Calling checkValidCharacter( "260955-175Z" )
  ✓
-Calling checkValidCharacter( "180625+7877" )
+Calling checkValidCharacter( "080436-077J" )
  ✓
-Calling checkValidCharacter( "191263-0637" )
+Calling checkValidCharacter( "081241-4564" )
  ✓
-Calling checkValidCharacter( "191263-063G" )
+Calling checkValidCharacter( "081241-456G" )
  ✓
-Calling checkValidCharacter( "191263-063I" )
+Calling checkValidCharacter( "081241-456I" )
  ✓
-Calling checkValidCharacter( "191263-063O" )
+Calling checkValidCharacter( "081241-456O" )
  ✓
-Calling checkValidCharacter( "191263-063Q" )
+Calling checkValidCharacter( "081241-456Q" )
  ✓
-Calling checkValidCharacter( "191263-063Z" )
+Calling checkValidCharacter( "081241-456Z" )
  ✓
-Calling checkValidCharacter( "121095+328U" )
+Calling checkValidCharacter( "070708+6137" )
  ✓
-Calling checkValidCharacter( "060207-7660" )
+Calling checkValidCharacter( "150172-0633" )
  ✓
-Calling checkValidCharacter( "060207-766G" )
+Calling checkValidCharacter( "150172-063G" )
  ✓
-Calling checkValidCharacter( "060207-766I" )
+Calling checkValidCharacter( "150172-063I" )
  ✓
-Calling checkValidCharacter( "060207-766O" )
+Calling checkValidCharacter( "150172-063O" )
  ✓
-Calling checkValidCharacter( "060207-766Q" )
+Calling checkValidCharacter( "150172-063Q" )
  ✓
-Calling checkValidCharacter( "060207-766Z" )
+Calling checkValidCharacter( "150172-063Z" )
  ✓
-Calling checkValidCharacter( "060384+545L" )
+Calling checkValidCharacter( "170311A791P" )
  ✓
-Calling checkValidCharacter( "170895-493U" )
+Calling checkValidCharacter( "101016-6343" )
  ✓
-Calling checkValidCharacter( "170895-493G" )
+Calling checkValidCharacter( "101016-634G" )
  ✓
-Calling checkValidCharacter( "170895-493I" )
+Calling checkValidCharacter( "101016-634I" )
  ✓
-Calling checkValidCharacter( "170895-493O" )
+Calling checkValidCharacter( "101016-634O" )
  ✓
-Calling checkValidCharacter( "170895-493Q" )
+Calling checkValidCharacter( "101016-634Q" )
  ✓
-Calling checkValidCharacter( "170895-493Z" )
+Calling checkValidCharacter( "101016-634Z" )
  ✓
-Calling checkValidCharacter( "260106A400R" )
+Calling checkValidCharacter( "170819A4694" )
  ✓
-Calling checkValidCharacter( "100749-242J" )
+Calling checkValidCharacter( "120265-606N" )
  ✓
-Calling checkValidCharacter( "100749-242G" )
+Calling checkValidCharacter( "120265-606G" )
  ✓
-Calling checkValidCharacter( "100749-242I" )
+Calling checkValidCharacter( "120265-606I" )
  ✓
-Calling checkValidCharacter( "100749-242O" )
+Calling checkValidCharacter( "120265-606O" )
  ✓
-Calling checkValidCharacter( "100749-242Q" )
+Calling checkValidCharacter( "120265-606Q" )
  ✓
-Calling checkValidCharacter( "100749-242Z" )
+Calling checkValidCharacter( "120265-606Z" )
  ✓
-Calling checkValidCharacter( "210935-217M" )
+Calling checkValidCharacter( "130587+817J" )
  ✓
-Calling checkValidCharacter( "100321-4283" )
+Calling checkValidCharacter( "060152-4675" )
  ✓
-Calling checkValidCharacter( "100321-428G" )
+Calling checkValidCharacter( "060152-467G" )
  ✓
-Calling checkValidCharacter( "100321-428I" )
+Calling checkValidCharacter( "060152-467I" )
  ✓
-Calling checkValidCharacter( "100321-428O" )
+Calling checkValidCharacter( "060152-467O" )
  ✓
-Calling checkValidCharacter( "100321-428Q" )
+Calling checkValidCharacter( "060152-467Q" )
  ✓
-Calling checkValidCharacter( "100321-428Z" )
+Calling checkValidCharacter( "060152-467Z" )
  ✓
-Calling checkValidCharacter( "131109-419C" )
+Calling checkValidCharacter( "090103A8975" )
  ✓
-Calling checkValidCharacter( "191222-8567" )
+Calling checkValidCharacter( "070593-379S" )
  ✓
-Calling checkValidCharacter( "191222-856G" )
+Calling checkValidCharacter( "070593-379G" )
  ✓
-Calling checkValidCharacter( "191222-856I" )
+Calling checkValidCharacter( "070593-379I" )
  ✓
-Calling checkValidCharacter( "191222-856O" )
+Calling checkValidCharacter( "070593-379O" )
  ✓
-Calling checkValidCharacter( "191222-856Q" )
+Calling checkValidCharacter( "070593-379Q" )
  ✓
-Calling checkValidCharacter( "191222-856Z" )
+Calling checkValidCharacter( "070593-379Z" )
  ✓
-Calling checkValidCharacter( "271081+418F" )
+Calling checkValidCharacter( "090994+035K" )
  ✓
 ]]></system-out>
   </testcase>

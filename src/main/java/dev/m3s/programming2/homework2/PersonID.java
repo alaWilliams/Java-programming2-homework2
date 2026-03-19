@@ -8,6 +8,7 @@ public class PersonID {
   }
 
   public String setPersonID(final String personID) {
+    if (personID == null) return ConstantValues.INVALID_BIRTHDAY;
     if (!checkPersonIDNumber(personID)) {
       return ConstantValues.INVALID_BIRTHDAY;
     }
